@@ -1,5 +1,5 @@
 # Backend with NodeJS Roadmap
-By [Seif El-Din Sweilam](https://github.com/saifsweelam) for Backend Circle in [CAT-Reloaded]()
+By [Seif El-Din Sweilam](https://github.com/saifsweelam) for Backend Circle in <img src="https://avatars.githubusercontent.com/cat-backend-nodejs" width="18" height="18"> [CAT-Reloaded](https://github.com/CATReloaded)
 
 ## Inroduction
 The purpose of this roadmap is to collect and organize open-source resources for learners seeking to learn Back-End Development and use `node.js` as a development environment. There are direct and indirect topics that are supposed to improve the technical skills of the learner.
@@ -48,6 +48,39 @@ _By the end of this level, the learner should learn_
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">Elzero Web School</a> [1:22]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc">The Net Ninja</a> [1:2]</li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 2</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Numbers and Strings Methods</li>
+                    <li>Controlling Flow (Conditional Statements)</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">Elzero Web School</a> [23:39]</li>
+                    <li><a href="https://youtu.be/JloLGV9DmtQ?feature=shared&t=1054">The Net Ninja</a> (From <code>17:34</code>)</li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 3</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Arrays and Array Methods</li>
+                    <li>Controlling Flow (Iteration and Repeatition)</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">Elzero Web School</a> [40:56]</li>
+                    <li><a href="https://www.youtube.com/watch?v=0SyTDl4pb4w">Dave Gray (Arrays)</a></li>
+                    <li><a href="https://youtu.be/JloLGV9DmtQ?feature=shared">The Net Ninja (Loops)</a> (Until <code>17:34</code>)</li>
                 </ul>
                 <h5>📃 Task</h5>
             </td>
