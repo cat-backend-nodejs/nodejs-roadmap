@@ -177,6 +177,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu">The Net Ninja (Async, JSON, APIs, Errors)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=iiADhChRriM">Web Dev Simplified (JSON)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=blBoIyNhGvY">Dave Gray (Error Handling)</a></li>
+                </ul>
                 <h5>📃 Task</h5>
             </td>
         </tr>
@@ -249,4 +250,97 @@ _By the end of this level, the learner should learn_
 </table>
 
 ### Level 2
+
+#### Objectives
+_By the end of this level, the learner should learn_
+* **TypeScript**: Syntax, Features, Usage
+* **Architecture**: MVC and other design patterns
+* **Express**: Validation, Authentication, Authorization, Sessions, APIs, JWT
+* **Databases**: Dealing with ORMs like `sequelize` and `prisma`, Database Migrations
+* **Web Scraping**: Using `puppeteer`
+
+#### Plan
+<table>
+    <thead>
+        <tr>
+            <th>Phase</th>
+            <th>Content</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Week 1</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Why TypeScript</li>
+                    <li>TypeScript Syntax</li>
+                    <li>TypeScript Compiling</li>
+                    <li>TypeScript inside an Express project</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">Elzero Web School (TypeScript Syntax & Compiling)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=N17Tef8gh-Q">Youssef Abbas (How to use TypeScript with Express App)</a></li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI">The Net Ninja (TypeScript Syntax & Compiling)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=qy8PxD3alWw">Colt Steele (How to use TypeScript with Express App)</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 2</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>A CRUD Application</li>
+                    <li>MVC Design Architecture</li>
+                    <li>Working with Template Engines in depth</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a> [19:30]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLyr3gkJ8OBxobKzATTb7I4QrJ09pZHaQ6">VivaCode</a> [38:48]</li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=Cgvopu9zg8Y">PedroTech (MVC in Express)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL6u82dzQtlfvJoAWdyf5mUxPQRnNKCMGt">DCodeMania</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp">The Net Ninja</a> [31:37]</li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 3</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Authentication with Normal Credentials</li>
+                    <li>Authorization & Protecting Routes</li>
+                    <li>Server-Side Validation</li>
+                    <li>Flash Messages</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a> [28:35]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLyr3gkJ8OBxobKzATTb7I4QrJ09pZHaQ6">VivaCode</a> [49:55]</li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=Nlg0JrUt0qg">Dave Gray (Authentication)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=z8m_Vy_9FIs">Raddy (express-validator)</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Level 3
