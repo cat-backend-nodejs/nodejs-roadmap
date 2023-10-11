@@ -256,7 +256,8 @@ _By the end of this level, the learner should learn_
 * **TypeScript**: Syntax, Features, Usage
 * **Architecture**: MVC and other design patterns
 * **Express**: Validation, Authentication, Authorization, Sessions, APIs, JWT
-* **Databases**: Dealing with ORMs like `sequelize` and `prisma`, Database Migrations
+* **API Documentation**: Rules, using Swagger & Postman
+* **Unit Testing**: Test-Driven Development, Using tools like `jest` and `supertest`
 * **Web Scraping**: Using `puppeteer`
 
 #### Plan
@@ -520,3 +521,159 @@ _By the end of this level, the learner should learn_
 </table>
 
 ### Level 3
+
+#### Objectives
+_By the end of this level, the learner should learn_
+* **Database**: SQL Syntax, DB-APIs, ORMs
+* **Real Time Connections**: Using `socket.io` and `WebRTC`
+* **Modern APIs**: `GraphQL`
+* **Caching**: Purpose, Techniques, Tools
+* **Task Scheduling**: Automating background tasks
+* **Web Frameworks**: `Nest.js`
+
+#### Plan
+<table>
+    <thead>
+        <tr>
+            <th>Phase</th>
+            <th>Content</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Week 1</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>SQL Syntax</li>
+                    <li>SQL inside Node.js</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <p>
+                    Choose only one DBMS
+                    <ul>
+                        <li>
+                            PostgreSQL
+                            <ul>
+                                <li><a href="https://www.youtube.com/playlist?list=PLqmv-PiN1b7hLJ_2ktdE9YX7Ba_7UZq3f">Mohamed Gbreel (PostgreSQL Syntax)</a></li>
+                                <li><a href="https://www.youtube.com/watch?v=JR_wlj72dTQ">Hamza Rashed (PostgreSQL inside Node.js)</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            SQL Server
+                            <ul>
+                                <li><a href="https://www.youtube.com/watch?v=N-WPYk417yE">Korsat X Parmaga (SQL Server Syntax)</a></li>
+                                <li><a href="https://www.youtube.com/watch?v=-ClOcI8giAA">Softwe3 (SQL Server inside Node.js)</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            SQLite
+                            <ul>
+                                <li><a href="https://www.youtube.com/watch?v=7DQnyLIXEZw">Maad Coding (SQLite Syntax)</a></li>
+                                <li><a href="https://academy.hsoub.com/questions/23386-node-js-%D9%88sqlite/">Hsoub Academy (SQLite inside Node.js)</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            MySQL
+                            <ul>
+                                <li><a href="https://www.youtube.com/watch?v=K9o0mRuqzqQ">CodeRK (MySQL Syntax)</a></li>
+                                <li><a href="https://www.youtube.com/watch?v=CQlfm_zNIgo">SAF1 (MySQL Design and Create Database)</a></li>
+                                <li><a href="https://www.youtube.com/watch?v=SIxgA9CP1A8">KMR Script (MySQL inside Node.js)</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </p>
+                <h6>🌏 English</h6>
+                <p>
+                    Choose only one DBMS
+                    <ul>
+                        <li>
+                            PostgreSQL
+                            <ul>
+                                <li><a href="https://www.youtube.com/watch?v=zw4s3Ey8ayo">Troy Amelotte (PostgreSQL Syntax)</a></li>
+                                <li><a href="https://www.youtube.com/watch?v=_n-Ai30C1qs">Kindson The Tech Pro (PostgreSQL inside Node.js)</a></li>
+                                <li><a href="https://node-postgres.com/">Official Documentations (PostgreSQL inside Node.js)</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            SQL Server
+                            <ul>
+                                <li><a href="https://www.youtube.com/watch?v=h0nxCDiD-zg">Kevin Stratvert (SQL Server Syntax)</a></li>
+                                <li><a href="https://www.youtube.com/watch?v=9JrnEO3W2Ys">Jesse Pinkman (SQL Server inside Node.js)</a></li>
+                                <li><a href="https://www.npmjs.com/package/mssql">NPM Documentations (SQL Server inside Node.js)</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            SQLite
+                            <ul>
+                                <li><a href="https://www.youtube.com/watch?v=IBgWKTaG_Bs">Coding With Mike (SQLite Syntax)</a></li>
+                                <li><a href="https://www.youtube.com/watch?v=ZRYn6tgnEgM">Coding With Mike (SQLite inside Node.js)</a></li>
+                                <li><a href="https://www.npmjs.com/package/sqlite3">NPM Documentations (SQLite inside Node.js)</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            MySQL
+                            <ul>
+                                <li><a href="https://www.youtube.com/watch?v=9ylj9NR0Lcg">Traversy Media (MySQL Syntax)</a></li>
+                                <li><a href="https://www.youtube.com/watch?v=EN6Dx22cPRI">Traversy Media (MySQL inside Node.js)</a></li>
+                                <li><a href="https://www.npmjs.com/package/mysql">NPM Documentations (MySQL inside Node.js)</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </p>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 2</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Relational Databases Design</li>
+                    <li>What are ORMs</li>
+                    <li>Prisma/Sequelize ORMs</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzhXQ1bcYlO3PtN4MsLiG-gy">KMR Script (Database Design)</a> [5:12]</li>
+                    <li>NO ARABIC RESOURCE FOR PRISMA</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLfDx4cQoUNObHX28K6FS38LkB2CPLGGfx">Algorithm Academy (Sequelize)</a> [5:12]</li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLOLrQ9Pn6caxigVJw2jHwIpH7gdb1zrmu">Very Academy (Database Design)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=8WoeGcJ_nNM">PedroTech (How to choose an ORM)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=RebA5J-rlwg">Web Dev Simplified (Prisma)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLkqiWyX-_Lov8qmMOVn4SEQwr9yOjNn3f">WittCode (Sequelize)</a></li>
+                </ul>
+                <p>Note: Sequelize and Prisma do the same job, so you don't have to learn both of them.</p>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 3</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Database Migrations</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=TmVRKDoMulE">pragma (Database Migrations)</a></li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLf42-srNPbi1iwPI4pRMLIcbqW-lF5R9T">fromDev2Dev (Prisma Migrations)</a></li>
+                    <li><a href="https://www.prisma.io/docs/concepts/components/prisma-migrate">Prisma Documentations (Prisma Migrations)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=zA_HkejB-0s">Alex Rusin (Sequelize Migrations)</a></li>
+                    <li><a href="https://sequelize.org/docs/v6/other-topics/migrations/">Sequelize Documentations (Sequelize Migrations)</a></li>
+                </ul>
+                <p>Note: It's really recommended to watch the one video in the Arabic resources to better understand Database Migrations.</p>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+    </tbody>
+</table>
