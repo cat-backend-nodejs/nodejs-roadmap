@@ -291,6 +291,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=qy8PxD3alWw">Colt Steele (How to use TypeScript with Express App)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYHFMMbVj5a_FZfIQ8JTeCBOIWdyex2TlEdYMcRne3DPL9OA/viewform">Level 2: Week 1 Quiz</a>
             </td>
         </tr>
         <tr>
