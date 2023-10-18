@@ -315,6 +315,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=z8m_Vy_9FIs">Raddy (express-validator)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfACZEJqxmpChEQZv-mF7Bbmkt67iRgqudtSDGfmlzyjZIjJQ/viewform">Level 2: Week 2 Quiz</a>
             </td>
         </tr>
         <tr>
