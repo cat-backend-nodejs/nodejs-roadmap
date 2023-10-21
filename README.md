@@ -451,17 +451,18 @@ _By the end of this level, the learner should learn_
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
-                    <li>Browser Automation & Web Scraping using <code>puppeteer</code></li>
+                    <li>Sending Emails in Node.js</li>
+                    <li>Sending SMS Messages with Twilio API</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https://discourse.aosus.org/t/topic/2518">aosus.org</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=AGErsRWd-6Y">Youssef Abbas (Sending Emails)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/watch?v=S67gyqnYHmI">Traversy Media</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLRmEk9smitaXljDN2CjwZ96o4Aj87iuC5">Get __it Done!</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=nF9g1825mwk">Traversy Media (Sending Emails)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=vs4in-UFdX0">AyyazTech (Sending SMS)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Implement a <strong>Job Stalker App</strong> using <code>express.js</code> and <code>puppeteer</code>, where the user enters the URL for someone's profile on LinkedIn and then the web application extracts data from the LinkedIn profile and presents them to the user to determine if the candidate is worth or not.</p>
@@ -675,6 +676,177 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <p>Note: It's really recommended to watch the one video in the Arabic resources to better understand Database Migrations.</p>
                 <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Mid Project</th>
+            <td>
+                <p>
+                    The Egyptian League wanted to stop using paper any more and wanted to create a dashboard to handle all players signed to different teams. Using an ORM connected to a relational database of your choice, implement a REST API for the Egyptian League Dashboard. You should have a route for teams and another one for players. The client using the dashboard should be able to:
+                    <ul>
+                        <li>Get all teams</li>
+                        <li>Get one team's details</li>
+                        <li>Get players by team</li>
+                        <li>Get one player's details</li>
+                        <li>Search for a player's name</li>
+                        <li>Add new players, delete retired ones</li>
+                        <li>Transfer a player from a team to another</li>
+                        <li>Change a player's salary</li>
+                        <li>Change team shirt color</li>
+                    </ul>
+                    Make sure you design your database precisely to acheive the desired features. Implementing Authentication is optional but recommended.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 4</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Browser Automation & Web Scraping using <code>puppeteer</code></li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://discourse.aosus.org/t/topic/2518">aosus.org</a></li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=S67gyqnYHmI">Traversy Media</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLRmEk9smitaXljDN2CjwZ96o4Aj87iuC5">Get __it Done!</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+                <p>Implement a <strong>Job Stalker App</strong> using <code>express.js</code> and <code>puppeteer</code>, where the user enters the URL for someone's profile on LinkedIn and then the web application extracts data from the LinkedIn profile and presents them to the user to determine if the candidate is worth or not.</p>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 5</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Websocket and Socket.io</li>
+                    <li>Streaming with WebRTC</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (Socket.io)</a> [48:51]</li>
+                    <li><a href="https://www.youtube.com/watch?v=XrCUM6vInH4">Smart Code (Socket.io)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=1cHC92DN-Zo">KMR Script (Video & Audio Streaming)</a></li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=ZKEqqIO7n-k">Web Dev Simplified (Socket.io)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=DvlyzDZDEq4">Web Dev Simplified (Video & Audio Streaming)</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 6</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Creating a Chat Application</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a> [52:63]</li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=jD7FnbI76Hg">Traversy Media</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLQDioScEMUhlBbHLB_uJ0QxuMkS0Pz8m9">Programming Experience</a> (More Advanced)</li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 7</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Payment Gateways Integration</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS">Takhareef Mobarmeg (PayPal Integration)</a> [39:41]</li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=mI_-1tbIXQI">Web Dev Simplified (Stripe Integration)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=DNM9FdFrI1k">Web Dev Simplified (PayPal Integration)</a></li>
+                </ul>
+                <p>Note: There are other payment gates that are commonly used in the middle east like Paymob and 2Checkout, but there's no specific YouTube Content on how to integrate them using Node.js, so you will have to take a look at their documentations if you need them in a job.</p>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 8</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>GraphQL</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=QonyaNVeEGo">Yallacode (What is GraphQL)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=sYJy7sOz_Sw">Yallacode (GraphQL in Node.js)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLt0HRIA9i35t6DbbX2Q7NUc0uKJoIR4qQ">Learn With Naw</a></li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=ZQL7tL2S0oQ">Web Dev Simplified</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y">The Net Ninja</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 9</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Caching with Redis</li>
+                    <li>Task Scheduling</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li>NO SUFFICIENT CONTENT</li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=bP4BeUjNkXc">Software Developer Diaries (How Caching Works)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=oaJq1mQ3dFI">Traversy Media (Redis in Node.js)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=jgpVdJB2sKQ">Web Dev Simplified (Redis Crash Course)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=Ezv30i47sDs">Raddy (Using node-schedule)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=StkFajPnd7w">Mafia Codes (Using node-schedule)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=ZG0Fl5Ejq68">OpenJavaScript (Using node-schedule)</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Final Project</th>
+            <td>
+                <h5>🎯 Required</h5>
+                <p>Mr. Samer is a seasoned entrepreneur who is looking to build an online marketplace platform. He wants to create a platform where users can buy and sell various products, while also providing real-time communication between buyers and sellers. Can you help Mr. Samer build this <strong>Online Marketplace</strong> with GraphQL, Socket.IO, and PayPal Integration?</p>
+                <h5>🫵 Criteria</h5>
+                <ul>
+                    <li>The application runs locally without any crashes.</li>
+                    <li>The application is built on a GraphQL API, utilizing the Apollo Server library.</li>
+                    <li>Real-time communication between buyers and sellers is implemented using Socket.IO.</li>
+                    <li>PayPal Integration is implemented for secure and convenient payment processing.</li>
+                    <li>User authentication and authorization are implemented using JWTs.</li>
+                    <li>Server-side validation is provided for user input and uploaded product data.</li>
+                    <li>API is well-documented using Swagger, Postman, or any other tool.</li>
+                    <li>Unit tests are implemented to ensure functionality and reliability.</li>
+                </ul>
+                <h5>📃 Project: Online Marketplace</h5>
             </td>
         </tr>
     </tbody>
