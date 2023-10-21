@@ -342,6 +342,7 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Choose one project from the above, follow along with the tutorials and upload your code on GitHub</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnfmkXeEE5XmWWtO6VVbpp_QP3JnMmp2OMmwNBj4b4a8Kwng/viewform">Level 2: Week 3 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -369,6 +370,7 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Choose one project from the above, follow along with the tutorials and upload your code on GitHub</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScB2w0fmxhXXSb_S4ueqOZLzZWAgBwi4WVjyRLZGnLh6JJSzA/viewform">Level 2: Week 4 Quiz</a>
             </td>
         </tr>
         <tr>
