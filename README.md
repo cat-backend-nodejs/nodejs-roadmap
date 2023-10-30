@@ -256,9 +256,9 @@ _By the end of this level, the learner should learn_
 * **TypeScript**: Syntax, Features, Usage
 * **Architecture**: MVC and other design patterns
 * **Express**: Validation, Authentication, Authorization, Sessions, APIs, JWT
+* **Real Time Connections**: Using `socket.io` and `WebRTC`
 * **API Documentation**: Rules, using Swagger & Postman
 * **Unit Testing**: Test-Driven Development, Using tools like `jest` and `supertest`
-* **Web Scraping**: Using `puppeteer`
 
 #### Plan
 <table>
@@ -431,19 +431,20 @@ _By the end of this level, the learner should learn_
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
-                    <li>Authentication using <code>passport.js</code></li>
-                    <li>OAuth2.0 and Third Party Authentication</li>
+                    <li>Websocket and Socket.io</li>
+                    <li>Streaming with WebRTC</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ6BVx8IuvTdrxiRQhDHmPK">Algorithm Academy (Local, OAuth2.0 Strategies)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=GsqkTEvnC8s">Code With Zeyad (Local Strategy)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (Socket.io)</a> [48:51]</li>
+                    <li><a href="https://www.youtube.com/watch?v=XrCUM6vInH4">Smart Code (Socket.io)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=1cHC92DN-Zo">KMR Script (Video & Audio Streaming)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLYQSCk-qyTW2ewJ05f_GKHtTIzjynDgjK">Zach Gollwitzer (Local Strategy)</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x">The Net Ninja (OAuth2.0 Strategies)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=ZKEqqIO7n-k">Web Dev Simplified (Socket.io)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=DvlyzDZDEq4">Web Dev Simplified (Video & Audio Streaming)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
             </td>
@@ -453,21 +454,19 @@ _By the end of this level, the learner should learn_
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
-                    <li>Sending Emails in Node.js</li>
-                    <li>Sending SMS Messages with Twilio API</li>
+                    <li>Creating a Chat Application</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/watch?v=AGErsRWd-6Y">Youssef Abbas (Sending Emails)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a> [52:63]</li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/watch?v=nF9g1825mwk">Traversy Media (Sending Emails)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=vs4in-UFdX0">AyyazTech (Sending SMS)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=jD7FnbI76Hg">Traversy Media</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLQDioScEMUhlBbHLB_uJ0QxuMkS0Pz8m9">Programming Experience</a> (More Advanced)</li>
                 </ul>
                 <h5>📃 Task</h5>
-                <p>Implement a <strong>Job Stalker App</strong> using <code>express.js</code> and <code>puppeteer</code>, where the user enters the URL for someone's profile on LinkedIn and then the web application extracts data from the LinkedIn profile and presents them to the user to determine if the candidate is worth or not.</p>
             </td>
         </tr>
         <tr>
@@ -529,12 +528,11 @@ _By the end of this level, the learner should learn_
 
 #### Objectives
 _By the end of this level, the learner should learn_
-* **Database**: SQL Syntax, DB-APIs, ORMs
-* **Real Time Connections**: Using `socket.io` and `WebRTC`
+* **Database**: SQL Syntax, DB-APIs, ORMs, Migrations
 * **Modern APIs**: `GraphQL`
-* **Caching**: Purpose, Techniques, Tools
-* **Task Scheduling**: Automating background tasks
-* **Web Frameworks**: `Nest.js`
+* **Caching**: Redis for server-side caching
+* **Task Scheduling**: `node-schedule`
+* **Browser Automation**: E2E Testing and Web Scraping using `puppeteer`
 
 #### Plan
 <table>
@@ -737,6 +735,50 @@ _By the end of this level, the learner should learn_
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
+                    <li>Authentication using <code>passport.js</code></li>
+                    <li>OAuth2.0 and Third Party Authentication</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ6BVx8IuvTdrxiRQhDHmPK">Algorithm Academy (Local, OAuth2.0 Strategies)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=GsqkTEvnC8s">Code With Zeyad (Local Strategy)</a></li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLYQSCk-qyTW2ewJ05f_GKHtTIzjynDgjK">Zach Gollwitzer (Local Strategy)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x">The Net Ninja (OAuth2.0 Strategies)</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 5</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Sending Emails in Node.js</li>
+                    <li>Sending SMS Messages with Twilio API</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=AGErsRWd-6Y">Youssef Abbas (Sending Emails)</a></li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=nF9g1825mwk">Traversy Media (Sending Emails)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=vs4in-UFdX0">AyyazTech (Sending SMS)</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+                <p>Implement a <strong>Job Stalker App</strong> using <code>express.js</code> and <code>puppeteer</code>, where the user enters the URL for someone's profile on LinkedIn and then the web application extracts data from the LinkedIn profile and presents them to the user to determine if the candidate is worth or not.</p>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 6</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
                     <li>Browser Automation & Web Scraping using <code>puppeteer</code></li>
                 </ul>
                 <h5>🎞️ Resources</h5>
@@ -751,49 +793,6 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Implement a <strong>Job Stalker App</strong> using <code>express.js</code> and <code>puppeteer</code>, where the user enters the URL for someone's profile on LinkedIn and then the web application extracts data from the LinkedIn profile and presents them to the user to determine if the candidate is worth or not.</p>
-            </td>
-        </tr>
-        <tr>
-            <th>Week 5</th>
-            <td>
-                <h5>🎯 Topics</h5>
-                <ul>
-                    <li>Websocket and Socket.io</li>
-                    <li>Streaming with WebRTC</li>
-                </ul>
-                <h5>🎞️ Resources</h5>
-                <h6>🌏 Arabic</h6>
-                <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (Socket.io)</a> [48:51]</li>
-                    <li><a href="https://www.youtube.com/watch?v=XrCUM6vInH4">Smart Code (Socket.io)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=1cHC92DN-Zo">KMR Script (Video & Audio Streaming)</a></li>
-                </ul>
-                <h6>🌏 English</h6>
-                <ul>
-                    <li><a href="https://www.youtube.com/watch?v=ZKEqqIO7n-k">Web Dev Simplified (Socket.io)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=DvlyzDZDEq4">Web Dev Simplified (Video & Audio Streaming)</a></li>
-                </ul>
-                <h5>📃 Task</h5>
-            </td>
-        </tr>
-        <tr>
-            <th>Week 6</th>
-            <td>
-                <h5>🎯 Topics</h5>
-                <ul>
-                    <li>Creating a Chat Application</li>
-                </ul>
-                <h5>🎞️ Resources</h5>
-                <h6>🌏 Arabic</h6>
-                <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a> [52:63]</li>
-                </ul>
-                <h6>🌏 English</h6>
-                <ul>
-                    <li><a href="https://www.youtube.com/watch?v=jD7FnbI76Hg">Traversy Media</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLQDioScEMUhlBbHLB_uJ0QxuMkS0Pz8m9">Programming Experience</a> (More Advanced)</li>
-                </ul>
-                <h5>📃 Task</h5>
             </td>
         </tr>
         <tr>
