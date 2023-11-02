@@ -192,6 +192,7 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2">Codezone</a> [1:3]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a> [1:6]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub">Takhareef Mobarmeg</a> [1:20]</li>
                 </ul>
@@ -378,6 +379,35 @@ _By the end of this level, the learner should learn_
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
+                    <li>File Uploads</li>
+                    <li>Sessions and Session Stores</li>
+                    <li>Hashing Vs. Encryption</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=j9ibqDLmKZs">Youssef Abbas (File Upload)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=4p8lvUk_PZw">Takhareef Mobarmeg (File Upload)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=XbpAGY6ZzHY">Emam Academy (Sessions)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLy2vwCvAbFKSmjvT1NsUEu6N58kf8qGFt">Ethraa Barmajy (Hashing, Encryption, Salts and Bcrypt in Node.js)</a></li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=wIOpe8S2Mk8">PedroTech (File Uploads)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=IPAvfcodcI8">WittCode (Sessions)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=IJ1nHIgSOQA">Anson the Developer (Session Stores)</a></li>
+                    <li><a href="https://www.npmjs.com/package/express-session#compatible-session-stores">NPM Documentations (Session Stores)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=qgpsIBLvrGY">Studying With Alex (Encryption, Hashing and Salting)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=AzA_LTDoFqY">Sam Meech-Ward (Hashing with bcrypt)</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 6</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
                     <li>Server-Side Rendering VS. Client-Side Rendering</li>
                     <li>REST APIs</li>
                     <li>JSON Web Tokens</li>
@@ -400,7 +430,7 @@ _By the end of this level, the learner should learn_
             </td>
         </tr>
         <tr>
-            <th>Week 6</th>
+            <th>Week 7</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <p>
@@ -415,38 +445,16 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Tutorials</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
+                    <li><strong>Ecommerce API:</strong> <a href="https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2">Codezone</a> [5:9]</li>
                     <li><strong>Ecommerce API:</strong> <a href="https://www.youtube.com/playlist?list=PLGhZWewM_75ILwl15d0Cn-W_XHpnKbNHL">Emam Academy</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
                     <li><strong>Ecommerce API:</strong> <a href="https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q">Academind</a></li>
-                    <li><strong>Products API with TypeScript:</strong> <a href="https://www.youtube.com/watch?v=BWUi6BS9T5Y">TomDoesTech</a></li>
+                    <li><strong>Ecommerce API with TypeScript:</strong> <a href="https://www.youtube.com/watch?v=BWUi6BS9T5Y">TomDoesTech</a></li>
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Choose one project from the above, follow along with the tutorials and upload your code on GitHub</p>
-            </td>
-        </tr>
-        <tr>
-            <th>Week 7</th>
-            <td>
-                <h5>🎯 Topics</h5>
-                <ul>
-                    <li>Websocket and Socket.io</li>
-                    <li>Streaming with WebRTC</li>
-                </ul>
-                <h5>🎞️ Resources</h5>
-                <h6>🌏 Arabic</h6>
-                <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (Socket.io)</a> [48:51]</li>
-                    <li><a href="https://www.youtube.com/watch?v=XrCUM6vInH4">Smart Code (Socket.io)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=1cHC92DN-Zo">KMR Script (Video & Audio Streaming)</a></li>
-                </ul>
-                <h6>🌏 English</h6>
-                <ul>
-                    <li><a href="https://www.youtube.com/watch?v=ZKEqqIO7n-k">Web Dev Simplified (Socket.io)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=DvlyzDZDEq4">Web Dev Simplified (Video & Audio Streaming)</a></li>
-                </ul>
-                <h5>📃 Task</h5>
             </td>
         </tr>
         <tr>
@@ -454,23 +462,46 @@ _By the end of this level, the learner should learn_
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
-                    <li>Creating a Chat Application</li>
+                    <li>Authentication using <code>passport.js</code></li>
+                    <li>OAuth2.0 and Third Party Authentication</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a> [52:63]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ6BVx8IuvTdrxiRQhDHmPK">Algorithm Academy (Local, OAuth2.0 Strategies)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=GsqkTEvnC8s">Code With Zeyad (Local Strategy)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/watch?v=jD7FnbI76Hg">Traversy Media</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLQDioScEMUhlBbHLB_uJ0QxuMkS0Pz8m9">Programming Experience</a> (More Advanced)</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLYQSCk-qyTW2ewJ05f_GKHtTIzjynDgjK">Zach Gollwitzer (Local Strategy)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x">The Net Ninja (OAuth2.0 Strategies)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
             </td>
         </tr>
         <tr>
             <th>Week 9</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Sending Emails in Node.js</li>
+                    <li>Sending SMS Messages with Twilio API</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=AGErsRWd-6Y">Youssef Abbas (Sending Emails)</a></li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=nF9g1825mwk">Traversy Media (Sending Emails)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=vs4in-UFdX0">AyyazTech (Sending SMS)</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 10</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -735,19 +766,21 @@ _By the end of this level, the learner should learn_
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
-                    <li>Authentication using <code>passport.js</code></li>
-                    <li>OAuth2.0 and Third Party Authentication</li>
+                    <li>Websocket and Socket.io</li>
+                    <li>Streaming with WebRTC</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ6BVx8IuvTdrxiRQhDHmPK">Algorithm Academy (Local, OAuth2.0 Strategies)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=GsqkTEvnC8s">Code With Zeyad (Local Strategy)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=IUfCXmQwm1w">Codezone (Socket.io)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (Socket.io)</a> [48:51]</li>
+                    <li><a href="https://www.youtube.com/watch?v=XrCUM6vInH4">Smart Code (Socket.io)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=1cHC92DN-Zo">KMR Script (Video & Audio Streaming)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLYQSCk-qyTW2ewJ05f_GKHtTIzjynDgjK">Zach Gollwitzer (Local Strategy)</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x">The Net Ninja (OAuth2.0 Strategies)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=ZKEqqIO7n-k">Web Dev Simplified (Socket.io)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=DvlyzDZDEq4">Web Dev Simplified (Video & Audio Streaming)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
             </td>
@@ -757,21 +790,19 @@ _By the end of this level, the learner should learn_
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
-                    <li>Sending Emails in Node.js</li>
-                    <li>Sending SMS Messages with Twilio API</li>
+                    <li>Creating a Chat Application</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/watch?v=AGErsRWd-6Y">Youssef Abbas (Sending Emails)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a> [52:63]</li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/watch?v=nF9g1825mwk">Traversy Media (Sending Emails)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=vs4in-UFdX0">AyyazTech (Sending SMS)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=jD7FnbI76Hg">Traversy Media</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLQDioScEMUhlBbHLB_uJ0QxuMkS0Pz8m9">Programming Experience</a> (More Advanced)</li>
                 </ul>
                 <h5>📃 Task</h5>
-                <p>Implement a <strong>Job Stalker App</strong> using <code>express.js</code> and <code>puppeteer</code>, where the user enters the URL for someone's profile on LinkedIn and then the web application extracts data from the LinkedIn profile and presents them to the user to determine if the candidate is worth or not.</p>
             </td>
         </tr>
         <tr>
