@@ -401,6 +401,14 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=AzA_LTDoFqY">Sam Meech-Ward (Hashing with bcrypt)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <p>
+                    Mini Tasks
+                    <ul>
+                        <li>Implement Hashing with Salting with SHA-256 Algorithm (Generating Salts, Generating Hashes, Comparing Values)</li>
+                        <li>Implement file upload and fetching in a gallery application</li>
+                    </ul>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeu9FpCF7HXDz7WYbBYbeTrXZp7ETZrhhl8RV2MqJ0tdPms1Q/viewform">Level 2: Week 5 Quiz</a>
+                </p>
             </td>
         </tr>
         <tr>
