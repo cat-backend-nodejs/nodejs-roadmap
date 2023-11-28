@@ -423,7 +423,8 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a> [44:47]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2">Codezone</a> [5:8]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (REST APIs)</a> [44:47]</li>
                     <li><a href="https://www.youtube.com/watch?v=RcqyAVnMaeQ">Eslam Mahmoud (JWT)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
@@ -431,10 +432,12 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=ObrSuDYMl1s">Smoljames (SSR & CSR)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=0oXYLzuucwE">Academind (REST APIs explained)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=fgTGADljAeg">Web Dev Simplified (REST APIs with Express)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=mbsmsi7l3r4">Web Dev Simplified (JWT)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=b8ZUb_Okxro">Code With Antony (REST with TypeScript & JWT)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=7Q17ubqLfaM">Web Dev Simplified (JWT Part 1)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=mbsmsi7l3r4">Web Dev Simplified (JWT Part 2)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=b8ZUb_Okxro">Code With Antony (Apply REST with TypeScript & JWT)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScKXITqpQsNkn3vJqAOPR1fvBa_ZqpRrSWh133LvP4apftEMg/viewform">Level 2: Week 6 Quiz</a>
             </td>
         </tr>
         <tr>
