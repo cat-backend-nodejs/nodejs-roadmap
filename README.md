@@ -462,6 +462,7 @@ _By the end of this level, the learner should learn_
                 <h6>🌏 English</h6>
                 <ul>
                     <li><strong>Ecommerce API:</strong> <a href="https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q">Academind</a></li>
+                    <li><strong>Ecommerce API:</strong> <a href="https://www.youtube.com/playlist?list=PLzb46hGUzitBp584kLyn6l3i6yC-rXlmN">Course On Demand</a></li>
                     <li><strong>Ecommerce API with TypeScript:</strong> <a href="https://www.youtube.com/watch?v=BWUi6BS9T5Y">TomDoesTech</a></li>
                 </ul>
                 <h5>📃 Task</h5>
@@ -891,7 +892,7 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li>NO SUFFICIENT CONTENT</li>
+                    <li><a href="https://www.youtube.com/watch?v=XP32O_gMZkA">JobStack (Session: Scaling App with Cash Strategies)</a> (Recommended)</li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
