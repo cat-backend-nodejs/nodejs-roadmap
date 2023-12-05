@@ -467,6 +467,7 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Choose one project from the above, follow along with the tutorials and upload your code on GitHub</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeuWqEIiJOAyf2wNBBA4uHzphn-ddq4YxpU4QgjZru6G6qVmw/viewform">Level 2: Week 7 Quiz</a>
             </td>
         </tr>
         <tr>
