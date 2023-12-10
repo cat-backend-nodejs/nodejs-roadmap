@@ -19,6 +19,88 @@ _By the end of this level, the learner should know_
 * Basic Data Structures and Algorithms
 * Basic Knowledge with Operating Systems
 
+#### Plan
+<table>
+    <thead>
+        <tr>
+            <th>Phase</th>
+            <th>Content</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Week 1</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Browser Developer Tools</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=q3yFo-t1ykw">Abdelrahman Gamal (HTML Crash Course)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=Z-5QVutAEW4">Abdelrahman Gamal (CSS Crash Course)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=_IKTGQosYMo">Elzero Web School (Chrome Dev Tools)</a></li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">The Net Ninja (HTML & CSS Crash Course)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=fxplz32rgEQ">Koding 101 (Chrome Dev Tools)</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 2</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Version Control (Git & GitHub)</li>
+                    <li>Introduction to databases</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=Q6G-J54vgKc">Big Data Arabic (Git & GitHub)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=rQKJFlsifR8">GeekHood (What is a database?)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=WWazrq7ZC8E">JobStack (SQL vs NoSQL Databases)</a></li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=RGOj5yH7evk">freeCodeCamp (Git & GitHub)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=_Q07-8e3UbI">Giraffe Academy (What is a database?)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=ZS_kXvOeQ5Y">Academind (SQL vs NoSQL Databases)</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 3</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Network Fundamentals for Web Developers</li>
+                    <li>DNS Servers</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLNE3WjwctlOy1ekMfZl9AbLyFivSgsfml">Networking & DNS</a></li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLCy5RQkQgvf4yaL-AMDO8rpAAi90sWfGl">Network Direction (Network Fundamentals)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=27r4Bzuj5NQ">ByteByteGo (DNS Server)</a></li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 ### Level 1
 
 #### Objectives
