@@ -50,6 +50,7 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/watch?v=fxplz32rgEQ">Koding 101 (Chrome Dev Tools)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSccZkQkxZGI7U0Ub3G4gkdeB1kQS543r0Ke8oc1GxQGPsUqaA/viewform">Level 0: Week 1 Quiz</a>
             </td>
         </tr>
         <tr>
