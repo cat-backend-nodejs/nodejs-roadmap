@@ -340,7 +340,6 @@ _By the end of this level, the learner should learn_
 * **TypeScript**: Syntax, Features, Usage
 * **Architecture**: MVC and other design patterns
 * **Express**: Validation, Authentication, Authorization, Sessions, APIs, JWT
-* **Real Time Connections**: Using `socket.io` and `WebRTC`
 * **API Documentation**: Rules, using Swagger & Postman
 * **Unit Testing**: Test-Driven Development, Using tools like `jest` and `supertest`
 
@@ -657,7 +656,8 @@ _By the end of this level, the learner should learn_
 _By the end of this level, the learner should learn_
 * **Database**: SQL Syntax, DB-APIs, ORMs, Migrations
 * **Modern APIs**: `GraphQL`
-* **Caching**: Redis for server-side caching
+* **Real Time Connections**: Using `socket.io` and `WebRTC`
+* **Caching**: Caching Techniques, Redis for server-side caching
 * **Task Scheduling**: `node-schedule`
 * **Browser Automation**: E2E Testing and Web Scraping using `puppeteer`
 
