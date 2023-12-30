@@ -611,16 +611,19 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLzNfs-3kBUJllCa8_6pLYDMnIlg6Lfvu4">Tresmerge (Unit Testing FULL)</a></li> (Recommended)
                     <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O">Elzero Web School (Unit Testing in JavaScript)</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN_CelwcY-B9PPi4UsXmU8Ka">Mohamed Essa (API Documentation)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN_CelwcY-B9PPi4UsXmU8Ka">Mohamed Essa (Swagger.io API Documentation)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS">Takhareef Mobarmeg (Swagger Integration in Express)</a></li> [9: 11]
+                    <li><a href="https://www.youtube.com/watch?v=0etHXuy_vbk">Mahmoud Abdullah (Deployment on Cyclic)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=FgnxcUQ5vho">Web Dev Simplified (Unit Testing in JavaScript)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=r5L1XRZaCR0">TomDoesTech (Unit Testing in Express - TypeScript)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=t5sFkGk8GY8">Anson the Developer (Unit Testing in Express - JavaScript)</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLnBvgoOXZNCOiV54qjDOPA9R7DIDazxBA">Braintemple Tutorial TV (API Documentation)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=dhMlXoTD3mQ">Skills With Arif (API Documentation)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLnBvgoOXZNCOiV54qjDOPA9R7DIDazxBA">Braintemple Tutorial TV (Swagger.io API Documentation)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=dhMlXoTD3mQ">Skills With Arif (Swagger Integration with Express)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=4Ga4c_amvY8">Rahat WebDev (Deployment on Railway)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
