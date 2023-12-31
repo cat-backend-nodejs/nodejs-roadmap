@@ -283,6 +283,7 @@ _By the end of this level, the learner should learn_
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU">The Net Ninja</a> [1:5]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR">Academind</a> [1:6]</li>
                 </ul>
                 <h5>📃 Task</h5>
             </td>
@@ -304,6 +305,7 @@ _By the end of this level, the learner should learn_
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU">The Net Ninja</a> [6:12]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR">Academind</a> [7:18]</li>
                     <li><a href="https://www.youtube.com/watch?v=-PdjUx9JZ2E">Dave Gray (MongoDB & Mongoose)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
