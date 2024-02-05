@@ -179,7 +179,8 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc">The Net Ninja</a> [4:5]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc">The Net Ninja (Functions and Objects)</a> [4:5]</li>
+                    <li><a href="https://www.youtube.com/watch?v=rRgD1yVwIvE">Traversy Media (Array Higher Order Functions)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
             </td>
@@ -284,8 +285,10 @@ _By the end of this level, the learner should learn_
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU">The Net Ninja</a> [1:5]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR">Academind</a> [1:6]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw">Dave Gray</a> [1:5]</li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZEB1nt4JeGP5RkW8Q78aN8MhmhNyX4O13PO9wRteNagfSlA/viewform">Level 1: Week 7 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -304,9 +307,12 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU">The Net Ninja</a> [6:12]</li>
-                    <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR">Academind</a> [7:18]</li>
-                    <li><a href="https://www.youtube.com/watch?v=-PdjUx9JZ2E">Dave Gray (MongoDB & Mongoose)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU">The Net Ninja (Express.js & Mongoose)</a> [6:12]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA">The Net Ninja (MongoDB)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR">Academind (Express.js & Mongoose)</a> [7:18]</li>
+                    <li><a href="https://www.youtube.com/watch?v=VELru-FCWDM">Academind (MongoDB)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw">Dave Gray (Express.js)</a> [6:9]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw">Dave Gray (MongoDB & Mongoose)</a> [13:15]</li>
                 </ul>
                 <h5>📃 Task</h5>
             </td>
@@ -508,7 +514,10 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2">Codezone</a> [5:8]</li>
+                    <li><a href="https://www.youtube.com/watch?v=rq7DvjN1Gco">Tarmeez (Intro to APIs)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=4dz4qDMwmCM">Tarmeez (JSON Recap)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=aanOygFD4Fo">pragma (Sessions vs. Tokens)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2">Codezone (REST APIs & JWT Authentication)</a> [5:8]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (REST APIs)</a> [44:47]</li>
                     <li><a href="https://www.youtube.com/watch?v=RcqyAVnMaeQ">Eslam Mahmoud (JWT)</a></li>
                 </ul>
@@ -516,9 +525,11 @@ _By the end of this level, the learner should learn_
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=ObrSuDYMl1s">Smoljames (SSR & CSR)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=0oXYLzuucwE">Academind (REST APIs explained)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=iiADhChRriM">Web Dev Simplified (JSON Recap)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=fgTGADljAeg">Web Dev Simplified (REST APIs with Express)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=7Q17ubqLfaM">Web Dev Simplified (JWT Part 1)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=mbsmsi7l3r4">Web Dev Simplified (JWT Part 2)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=2PPSXonhIck">Code Realm (Sessions vs. Tokens)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=b8ZUb_Okxro">Code With Antony (Apply REST with TypeScript & JWT)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
@@ -598,6 +609,8 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=vs4in-UFdX0">AyyazTech (Sending SMS)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <p>Implement simple user registration system with Email Confirmation</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8zLC2OETXnjB6qrwK9MmQpJkPl1oiQEk7PNGvjwalv3Oj_g/viewform">Level 2: Week 9 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -1019,3 +1032,20 @@ _By the end of this level, the learner should learn_
         </tr>
     </tbody>
 </table>
+
+
+### Level 4
+
+#### Objectives
+_By the end of this level, the learner should learn_
+* **Hosting**: Linux operating system, SSH protocol, VPS hosting
+* **Web Security**: Avoiding Attacks and designing security layers
+* **Architecture**: Microservices, Nodejs Design Patterns
+* **Automation**: Tasks and pipelines
+* **System Design**: Fundamentals of designing complex software
+* **Software Engineering**: SDLC, Agile Workflow, DevOps Workflow
+* **Containers**: Concept, Intro to Kubernetes
+
+#### Plan
+
+TO BE DETERMINED
