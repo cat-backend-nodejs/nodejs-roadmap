@@ -315,6 +315,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw">Dave Gray (MongoDB & Mongoose)</a> [13:15]</li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkxmlid4Y34YoaN9SPeBfYw4xasi-PtY7sY1gxFc3IgnQBtQ/viewform">Level 1: Week 8 Quiz</a>
             </td>
         </tr>
         <tr>
