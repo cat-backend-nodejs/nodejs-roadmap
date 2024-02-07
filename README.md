@@ -97,6 +97,7 @@ _By the end of this level, the learner should know_
                     <li><a href="https://www.youtube.com/watch?v=27r4Bzuj5NQ">ByteByteGo (DNS Server)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScB8MEoJEWOpbGW9VVFquEbY0E7aFZtHSEuE7w4NGCoG9dZcg/viewform">Level 0: Week 3 Quiz</a>
             </td>
         </tr>
     </tbody>
