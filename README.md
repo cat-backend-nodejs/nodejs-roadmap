@@ -141,6 +141,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc">The Net Ninja</a> [1:2]</li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCDpqhlsepyeFsjBNd3BeZdB2ERplwpBZQBq74-uvDasfnSA/viewform">Level 1: Week 1 Quiz</a>
             </td>
         </tr>
         <tr>
