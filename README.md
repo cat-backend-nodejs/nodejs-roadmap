@@ -335,11 +335,7 @@ _By the end of this level, the learner should learn_
                     <li>No need for authentication or routes protection in this project</li>
                 </ul>
                 <h5>📃 Task</h5>
-                You will be provided with starter code, including the front-end design, so that you focus on implementing the main functionality.
-                <br>
-                Your task is to complete/modify the application so that it follows the <strong>criteria</strong> of the project.
-                <br>
-                It's recommended that you use GitHub for hosting your code.
+                <a href="https://github.com/cat-backend-nodejs/url-shortener">Starter Code & Description</a>
             </td>
         </tr>
     </tbody>
@@ -646,6 +642,7 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Implement Unit Tests and API Documentation for the application you created at week 6, then deploy it on railway.</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfW1NRZyj8mgsxfFcbiqN6MlaIifQPDxKMV-yQKxgC159eOww/viewform">Level 2: Week 10 Quiz</a>
             </td>
         </tr>
         <tr>
