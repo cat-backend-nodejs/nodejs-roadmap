@@ -164,6 +164,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://youtu.be/JloLGV9DmtQ?feature=shared">The Net Ninja (Control Flow)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlj9g0KJvTnP7N6E0ypGrtDZIL-9gXeQMFXrh_iqBKU-Bb0g/viewform">Level 1: Week 2 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -194,6 +195,7 @@ _By the end of this level, the learner should learn_
                 <ul>
                     <li>Objects and Arrays Destructing</li>
                     <li>Some Data Structures in JS (Map, Set, ...)</li>
+                    <li>Array Advanced Methods</li>
                     <li>Regular Expressions</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
@@ -205,6 +207,7 @@ _By the end of this level, the learner should learn_
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=NIq3qLaHCIs">Web Dev Simplified (Destructing)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=ycohYSx5h9w">Traversy Media (Map, Set, WeakMap, WeakSet)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2">Florin Pop (Array Advanced Methods)</a> [17:24]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD">The Net Ninja (Regular Expressions)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=909NfO1St0A">freeCodeCamp (Regular Expressions)</a></li>
                 </ul>
@@ -661,11 +664,7 @@ _By the end of this level, the learner should learn_
                     <li>Unit tests are implemented, inclusive and work fine.</li>
                 </ul>
                 <h5>📃 Task</h5>
-                You will be provided with starter code, including the front-end design, so that you focus on implementing the main functionality.
-                <br>
-                Your task is to complete/modify the application so that it follows the <strong>criteria</strong> of the project.
-                <br>
-                It's recommended that you use GitHub for hosting your code.
+                <a href="https://github.com/cat-backend-nodejs/task-grading-hub">Project Description</a>
             </td>
         </tr>
     </tbody>
