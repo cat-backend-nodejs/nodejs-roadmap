@@ -307,8 +307,10 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a> [7:18]</li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7">Emam Academy</a> [13:36]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (Express & Mongoose)</a> [7:18]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7">Emam Academy (Express & Mongoose)</a> [13:36]</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLd6o9p13Lc5387FWk_GXU0Rh5AhrBGod5">Mohamed Ramadan (MongoDB)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN-XN8xmNeznvIcfL_RySLXd">Mohamed Essa (MongoDB)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
@@ -516,6 +518,7 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
+                    <li><a href="hthttps://www.youtube.com/watch?v=zAJs2T1xAFE">Amr Mohamed (CSR & SSR)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=rq7DvjN1Gco">Tarmeez (Intro to APIs)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=4dz4qDMwmCM">Tarmeez (JSON Recap)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=aanOygFD4Fo">pragma (Sessions vs. Tokens)</a></li>
@@ -542,6 +545,26 @@ _By the end of this level, the learner should learn_
             <th>Week 7</th>
             <td>
                 <h5>🎯 Topics</h5>
+                <ul>
+                    <li>Advanced MongoDB Queries</li>
+                    <li>Enhancing API Functionality</li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i">Index Academy</a> (No need to watch all, just videos about queries, filtration, pagination, population and validation)</li>
+                </ul>
+                <h6>🌏 English</h6>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS">procademy</a> [73:87]</li>
+                </ul>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 8</th>
+            <td>
+                <h5>🎯 Topics</h5>
                 <p>
                     <strong>Build REST API</strong>
                     <ul>
@@ -565,35 +588,41 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Choose one project from the above, follow along with the tutorials and upload your code on GitHub</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeuWqEIiJOAyf2wNBBA4uHzphn-ddq4YxpU4QgjZru6G6qVmw/viewform">Level 2: Week 7 Quiz</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeuWqEIiJOAyf2wNBBA4uHzphn-ddq4YxpU4QgjZru6G6qVmw/viewform">Level 2: Week 8 Quiz</a>
             </td>
         </tr>
         <tr>
-            <th>Week 8</th>
+            <th>Week 9</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
                     <li>Authentication using <code>passport.js</code></li>
                     <li>OAuth2.0 and Third Party Authentication</li>
+                    <li>API Security</li>
+                    <li>Rate Limiting and Controlling Traffic</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ6BVx8IuvTdrxiRQhDHmPK">Algorithm Academy (Local, OAuth2.0 Strategies)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=GsqkTEvnC8s">Code With Zeyad (Local Strategy)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=a0g8rI4j4qc">Ahmed Elemam (API Security)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=g2GUBz-Trls">Youssef Abbas (Rate Limiting)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PLYQSCk-qyTW2ewJ05f_GKHtTIzjynDgjK">Zach Gollwitzer (Local, JWT Strategy)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x">The Net Ninja (OAuth2.0 Strategies)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=YYe0FdfdgDU">freeCodeCamp (API Security)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=VZZLiVccwKk">Raddy (Rate Limiting)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Implement OAuth2.0 Authentication with Passport.js using two third-party providers</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-K-FvNw70nHSq6BGWGPir8lbvrloSEfIaC0eNX9S3FyNlfg/viewform">Level 2: Week 8 Quiz</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-K-FvNw70nHSq6BGWGPir8lbvrloSEfIaC0eNX9S3FyNlfg/viewform">Level 2: Week 9 Quiz</a>
             </td>
         </tr>
         <tr>
-            <th>Week 9</th>
+            <th>Week 10</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -612,11 +641,11 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Implement simple user registration system with Email Confirmation</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8zLC2OETXnjB6qrwK9MmQpJkPl1oiQEk7PNGvjwalv3Oj_g/viewform">Level 2: Week 9 Quiz</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8zLC2OETXnjB6qrwK9MmQpJkPl1oiQEk7PNGvjwalv3Oj_g/viewform">Level 2: Week 10 Quiz</a>
             </td>
         </tr>
         <tr>
-            <th>Week 10</th>
+            <th>Week 11</th>
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
@@ -645,7 +674,7 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h5>📃 Task</h5>
                 <p>Implement Unit Tests and API Documentation for the application you created at week 6, then deploy it on railway.</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfW1NRZyj8mgsxfFcbiqN6MlaIifQPDxKMV-yQKxgC159eOww/viewform">Level 2: Week 10 Quiz</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfW1NRZyj8mgsxfFcbiqN6MlaIifQPDxKMV-yQKxgC159eOww/viewform">Level 2: Week 11 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -895,6 +924,7 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NOkbTDxKi7grs_oxJhLu07">Dave Gray (Socket.io)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=ZKEqqIO7n-k">Web Dev Simplified (Socket.io)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=DvlyzDZDEq4">Web Dev Simplified (Video & Audio Streaming)</a></li>
                 </ul>
@@ -915,8 +945,9 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No">Mafia Codes</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=mYy-d6BtqmU">Coding with Dawid</a> (Recommended if you know React)</li>
                     <li><a href="https://www.youtube.com/watch?v=jD7FnbI76Hg">Traversy Media</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLQDioScEMUhlBbHLB_uJ0QxuMkS0Pz8m9">Programming Experience</a> (More Advanced)</li>
                 </ul>
                 <h5>📃 Task</h5>
             </td>
@@ -931,6 +962,7 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
+                    <li><a href="https://www.youtube.com/watch?v=gh7TmUcku8M">Tresmerge</a></li>
                     <li><a href="https://discourse.aosus.org/t/topic/2518">aosus.org</a></li>
                 </ul>
                 <h6>🌏 English</h6>
@@ -952,6 +984,7 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
+                    <li><a href="https://www.youtube.com/watch?v=isakqT0fOsY">JobStack (Session: Payment Integration)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS">Takhareef Mobarmeg (PayPal Integration)</a> [39:41]</li>
                 </ul>
                 <h6>🌏 English</h6>
@@ -979,8 +1012,8 @@ _By the end of this level, the learner should learn_
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
-                    <li><a href="https://www.youtube.com/watch?v=ZQL7tL2S0oQ">Web Dev Simplified</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y">The Net Ninja</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=ZQL7tL2S0oQ">Web Dev Simplified</a></li>
                 </ul>
                 <h5>📃 Task</h5>
             </td>
@@ -1001,8 +1034,8 @@ _By the end of this level, the learner should learn_
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=bP4BeUjNkXc">Software Developer Diaries (How Caching Works)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=oaJq1mQ3dFI">Traversy Media (Redis in Node.js)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=jgpVdJB2sKQ">Web Dev Simplified (Redis Crash Course)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=oaJq1mQ3dFI">Traversy Media (Redis in Node.js)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=Ezv30i47sDs">Raddy (Using node-schedule)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=StkFajPnd7w">Mafia Codes (Using node-schedule)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=ZG0Fl5Ejq68">OpenJavaScript (Using node-schedule)</a></li>
