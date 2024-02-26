@@ -190,6 +190,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=j-9_15QBW2s">Colt Steele (Hoisting)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeK8u8yH1-Uw_aSEsfZtnPqUznvEeQMgei5W27iJMAEGqo3dQ/viewform">Level 1: Week 3 Quiz</a>
             </td>
         </tr>
         <tr>
