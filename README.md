@@ -198,7 +198,7 @@ _By the end of this level, the learner should learn_
             <td>
                 <h5>🎯 Topics</h5>
                 <ul>
-                    <li>Objects and Arrays Destructing</li>
+                    <li>Objects and Arrays Destructing, Spread Operator</li>
                     <li>Some Data Structures in JS (Map, Set, ...)</li>
                     <li>Array Advanced Methods</li>
                     <li>Regular Expressions</li>
@@ -213,13 +213,16 @@ _By the end of this level, the learner should learn_
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=NIq3qLaHCIs">Web Dev Simplified (Destructing)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=1INe_jCWq1Q">The Net Ninja (Spread Operator)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=ycohYSx5h9w">Traversy Media (Map, Set, WeakMap, WeakSet)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2">Florin Pop (Array Advanced Methods)</a> [17:24]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD">The Net Ninja (Regular Expressions)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=909NfO1St0A">freeCodeCamp (Regular Expressions)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=aHrvi2zTlaU">ColorCode (Closure)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=vKJpN5FAeF4">Fireship (Closure)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScKZsGeKQBp2GHEBSXsVpH-Jkl-m6NaDk5Yah8opg8ZpTIklQ/viewform">Level 1: Week 4 Quiz</a>
             </td>
         </tr>
         <tr>
