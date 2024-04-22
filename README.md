@@ -280,6 +280,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=blBoIyNhGvY">Dave Gray (Error Handling)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSecUunHN2jEN-lxtrs0Aqg5TE-_8Xgd4WXcTl_VspY77__JaA/viewform">Level 1: Week 6 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -808,6 +809,8 @@ _By the end of this level, the learner should learn_
                     </ul>
                 </p>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfY5jvtRwsgMa5MHm7iLYr0Uiy9pai-btSBXLwSvZaPiftLGA/viewform">Part 1</a><br>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdkgNCTehGDLnjCBA_X6KXNIEfPKmBCWZbd2YpXf9ri_Cmr_g/viewform">Part 2</a>
             </td>
         </tr>
         <tr>
@@ -822,7 +825,8 @@ _By the end of this level, the learner should learn_
                 <h6>🌏 Arabic</h6>
                 <p>
                     <ul>
-                        <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzhXQ1bcYlO3PtN4MsLiG-gy">KMR Script (Database Design)</a></li>
+                        <li><a href="https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx">Tech Vault (Database Design)</a></li>
+                        <li><a href="https://www.youtube.com/watch?v=QJHy89zMvj8">ITI (Database Design)</a></li>
                         <li><a href="https://www.youtube.com/playlist?list=PLC7aGATfqnIj6p1GIzk4X13Xdv3T8rBzJ">Badr Ahmed (Database Design)</a></li>
                         <li><a href="https://www.youtube.com/watch?v=CQlfm_zNIgo">SAF1 (MySQL Design and Create Database)</a></li>
                         <li><a href="https://www.youtube.com/watch?v=SIxgA9CP1A8">KMR Script (MySQL inside Node.js)</a></li>
