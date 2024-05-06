@@ -409,6 +409,7 @@ _By the end of this level, the learner should learn_
                 <ul>
                     <li>MVC Design Architecture</li>
                     <li>Server-Side Validation</li>
+                    <li>Environment variables and <code>dotenv</code></li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
@@ -416,11 +417,15 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=yIhRWW9vB5s">VivaCode (MVC in Express)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (MVC in Express)</a> [21:22]</li>
                     <li><a href="https://www.youtube.com/watch?v=S_1ykoqSAu0">Emam Academy (express-validator)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=68ssWH3cffc">Muhammed Essa (Environment Variables Part 1)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=Mi-2qc_3gA4">Index Academy (Environment Variables Part 2)</a></li>
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=Cgvopu9zg8Y">PedroTech (MVC in Express)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=z8m_Vy_9FIs">Raddy (express-validator)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=KdFhoEvSAcM">procademy (Environment Variables Part 1)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=PxshhOKNPpQ">procademy (Environment Variables Part 2)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfACZEJqxmpChEQZv-mF7Bbmkt67iRgqudtSDGfmlzyjZIjJQ/viewform">Level 2: Week 2 Quiz</a>
