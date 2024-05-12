@@ -249,6 +249,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=KeBxopnhizw">freeCodeCamp (Modules)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2IiaD-oypcYGGMBujU2My9ghu7rS_xi1HWZIUv-esLryM8Q/viewform">Level 1: Week 5 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -576,6 +577,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS">procademy</a> [73:87]</li>
                 </ul>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVRoKLg390eGt-J74mE9yWrHqnEbqcgBTjekI68ox7qaEXlQ/viewform">Level 2: Week 7 Quiz</a>
             </td>
         </tr>
         <tr>
@@ -856,6 +858,7 @@ _By the end of this level, the learner should learn_
                     </ul>
                 </p>
                 <h5>📃 Task</h5>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScr65VkChXh3OyNcwSk7IGV-m7rQQc4jWJJwDla6CKHO-jpPw/viewform">Level 3: Week 2 Quiz</a>
             </td>
         </tr>
         <tr>
