@@ -497,6 +497,7 @@ _By the end of this level, the learner should learn_
                     <li>File Uploads</li>
                     <li>Sessions and Session Stores</li>
                     <li>Hashing Vs. Encryption</li>
+                    <li>Session-Based Authentication</li>
                 </ul>
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
@@ -505,6 +506,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=4p8lvUk_PZw">Takhareef Mobarmeg (File Upload)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=XbpAGY6ZzHY">Emam Academy (Sessions)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLy2vwCvAbFKSmjvT1NsUEu6N58kf8qGFt">Ethraa Barmajy (Hashing, Encryption, Salts and Bcrypt in Node.js)</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (Session-Based Authentication)</a></li> [28:31]
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
@@ -514,6 +516,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.npmjs.com/package/express-session#compatible-session-stores">NPM Documentations (Session Stores)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=qgpsIBLvrGY">Studying With Alex (Encryption, Hashing and Salting)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=AzA_LTDoFqY">Sam Meech-Ward (Hashing with bcrypt)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=TDe7DRYK8vU">The Full Stack Junkie (Session-Based Authentication)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
                 <p>
@@ -538,7 +541,7 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
-                    <li><a href="hthttps://www.youtube.com/watch?v=zAJs2T1xAFE">Amr Mohamed (CSR & SSR)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=zAJs2T1xAFE">Amr Mohamed (CSR & SSR)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=rq7DvjN1Gco">Tarmeez (Intro to APIs)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=4dz4qDMwmCM">Tarmeez (JSON Recap)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=aanOygFD4Fo">pragma (Sessions vs. Tokens)</a></li>
@@ -555,7 +558,7 @@ _By the end of this level, the learner should learn_
                     <li><a href="https://www.youtube.com/watch?v=7Q17ubqLfaM">Web Dev Simplified (JWT Part 1)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=mbsmsi7l3r4">Web Dev Simplified (JWT Part 2)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=2PPSXonhIck">Code Realm (Sessions vs. Tokens)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=b8ZUb_Okxro">Code With Antony (Apply REST with TypeScript & JWT)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=b8ZUb_Okxro">Code With Antony (Apply REST with TypeScript)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLScKXITqpQsNkn3vJqAOPR1fvBa_ZqpRrSWh133LvP4apftEMg/viewform">Level 2: Week 6 Quiz</a>
