@@ -417,7 +417,7 @@ _By the end of this level, the learner should learn_
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=yIhRWW9vB5s">VivaCode (MVC in Express)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (MVC in Express)</a> [21:22]</li>
-                    <li><a href="https://www.youtube.com/watch?v=S_1ykoqSAu0">Emam Academy (express-validator)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=9DQuFEar2og">Code with Fadi (express-validator)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=68ssWH3cffc">Muhammed Essa (Environment Variables Part 1)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=Mi-2qc_3gA4">Index Academy (Environment Variables Part 2)</a></li>
                 </ul>
@@ -503,19 +503,21 @@ _By the end of this level, the learner should learn_
                 <h6>🌏 Arabic</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=j9ibqDLmKZs">Youssef Abbas (File Upload)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=4p8lvUk_PZw">Takhareef Mobarmeg (File Upload)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=rblbMjrcVqg">Khalid Elshafie (File Upload)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=XbpAGY6ZzHY">Emam Academy (Sessions)</a></li>
-                    <li><a href="https://www.youtube.com/playlist?list=PLy2vwCvAbFKSmjvT1NsUEu6N58kf8qGFt">Ethraa Barmajy (Hashing, Encryption, Salts and Bcrypt in Node.js)</a></li>
+                    <li>Resource missing for session stores (See English)</li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLy2vwCvAbFKSmjvT1NsUEu6N58kf8qGFt">Ethraa Barmajy (Password Security)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=YYHtHbJnVEU">Index Academy (Bcrypt in Node.js)</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (Session-Based Authentication)</a></li> [28:31]
                 </ul>
                 <h6>🌏 English</h6>
                 <ul>
                     <li><a href="https://www.youtube.com/watch?v=wIOpe8S2Mk8">PedroTech (File Uploads)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=IPAvfcodcI8">WittCode (Sessions)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=IJ1nHIgSOQA">Anson the Developer (Session Stores)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=T9MsNRI5T-A">Anson the Developer (Session Stores)</a></li>
                     <li><a href="https://www.npmjs.com/package/express-session#compatible-session-stores">NPM Documentations (Session Stores)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=qgpsIBLvrGY">Studying With Alex (Encryption, Hashing and Salting)</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=AzA_LTDoFqY">Sam Meech-Ward (Hashing with bcrypt)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=qgpsIBLvrGY">Studying With Alex (Password Security)</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=AzA_LTDoFqY">Sam Meech-Ward (Bcrypt in Node.js)</a></li>
                     <li><a href="https://www.youtube.com/watch?v=TDe7DRYK8vU">The Full Stack Junkie (Session-Based Authentication)</a></li>
                 </ul>
                 <h5>📃 Task</h5>
