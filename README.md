@@ -1145,7 +1145,8 @@ _By the end of this level, the learner should learn_
                 <h6>🌏 Arabic</h6>
                 <p>
                     <ul>
-                        <li><a href="https://www.youtube.com/playlist?list=PLNE3WjwctlOznMzwM4hlMIXBw2Bf6zWc4">Playlist</a></li>
+                        <li><a href="https://www.youtube.com/playlist?list=PLNE3WjwctlOznMzwM4hlMIXBw2Bf6zWc4">Passionate Coders</a></li>
+                        <li><a href="https://www.youtube.com/playlist?list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj">DevGeeks Academy</a> [12:16]</li>
                     </ul>
                 </p>
                 <h6>🌏 English</h6>
@@ -1188,6 +1189,71 @@ _By the end of this level, the learner should learn_
                 <p>
                     <ul>
                         <li><a href="https://www.youtube.com/playlist?list=PLNE3WjwctlOz3Gx66tO5wxXu2C5E3Oj8i">Playlist</a> [10:22]</li>
+                    </ul>
+                </p>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 3</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>
+                    Behavioral Design Patterns (1)
+                        <ul>
+                            <li>Chain of responsibility</li>
+                            <li>Observer</li>
+                            <li>Command</li>
+                            <li>Interpreter</li>
+                            <li>Iterator</li>
+                        </ul>
+                    </li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <p>
+                    <ul>
+                        <li><a href="https://www.youtube.com/playlist?list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj">DevGeeks Academy</a> [1:5]</li>
+                    </ul>
+                </p>
+                <h6>🌏 English</h6>
+                <p>
+                    <ul>
+                        <li><a href="https://www.youtube.com/playlist?list=PLNE3WjwctlOz3Gx66tO5wxXu2C5E3Oj8i">Playlist</a> [23:28]</li>
+                    </ul>
+                </p>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 4</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>
+                    Behavioral Design Patterns (2)
+                        <ul>
+                            <li>Mediator</li>
+                            <li>Memento</li>
+                            <li>State</li>
+                            <li>Strategy</li>
+                            <li>Template</li>
+                            <li>Visitor</li>
+                        </ul>
+                    </li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <p>
+                    <ul>
+                        <li><a href="https://www.youtube.com/playlist?list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj">DevGeeks Academy</a> [6:11]</li>
+                    </ul>
+                </p>
+                <h6>🌏 English</h6>
+                <p>
+                    <ul>
+                        <li><a href="https://www.youtube.com/playlist?list=PLNE3WjwctlOz3Gx66tO5wxXu2C5E3Oj8i">Playlist</a> [29:37]</li>
                     </ul>
                 </p>
                 <h5>📃 Task</h5>
