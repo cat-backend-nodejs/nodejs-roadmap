@@ -1118,4 +1118,80 @@ _By the end of this level, the learner should learn_
 
 #### Plan
 
-TO BE DETERMINED
+<table>
+    <thead>
+        <tr>
+            <th>Phase</th>
+            <th>Content</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Week 1</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>
+                    Creational Design Patterns
+                        <ul>
+                            <li>Builder</li>
+                            <li>Factory</li>
+                            <li>Singleton</li>
+                            <li>Prototype</li>
+                        </ul>
+                    </li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <p>
+                    <ul>
+                        <li><a href="https://www.youtube.com/playlist?list=PLNE3WjwctlOznMzwM4hlMIXBw2Bf6zWc4">Playlist</a></li>
+                    </ul>
+                </p>
+                <h6>🌏 English</h6>
+                <p>
+                    <ul>
+                        <li><a href="https://www.youtube.com/playlist?list=PLNE3WjwctlOz3Gx66tO5wxXu2C5E3Oj8i">Playlist</a> [1:9]</li>
+                    </ul>
+                </p>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+        <tr>
+            <th>Week 2</th>
+            <td>
+                <h5>🎯 Topics</h5>
+                <ul>
+                    <li>
+                    Structural Design Patterns
+                        <ul>
+                            <li>Adapter</li>
+                            <li>Bridge</li>
+                            <li>Composite</li>
+                            <li>Decorator</li>
+                            <li>Facade</li>
+                            <li>Flyweight</li>
+                            <li>Proxy</li>
+                        </ul>
+                    </li>
+                </ul>
+                <h5>🎞️ Resources</h5>
+                <h6>🌏 Arabic</h6>
+                <p>
+                    <ul>
+                        <li><a href="https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm">Mohamed Reda</a></li>
+                        <li><a href="https://www.youtube.com/playlist?list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj">DevGeeks Academy</a> [17:23]</li>
+                        <li><a href="https://www.youtube.com/watch?v=yQXrKJ6JjiE">Fathy & Abusrea (Proxy Pattern)</a></li>
+                    </ul>
+                </p>
+                <h6>🌏 English</h6>
+                <p>
+                    <ul>
+                        <li><a href="https://www.youtube.com/playlist?list=PLNE3WjwctlOz3Gx66tO5wxXu2C5E3Oj8i">Playlist</a> [10:22]</li>
+                    </ul>
+                </p>
+                <h5>📃 Task</h5>
+            </td>
+        </tr>
+    </tbody>
+</table>
