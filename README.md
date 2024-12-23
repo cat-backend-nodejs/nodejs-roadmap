@@ -320,6 +320,7 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
+                    <li><a href="https://youtu.be/XRoV7moNSsM?si=lhuf-Ks-s0615_dY">CodeZone (Express)</a> [4]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (Express & Mongoose)</a> [7:18]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7">Emam Academy (Express & Mongoose)</a> [13:36]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PLd6o9p13Lc5387FWk_GXU0Rh5AhrBGod5">Mohamed Ramadan (MongoDB)</a></li>
