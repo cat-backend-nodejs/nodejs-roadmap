@@ -6,9 +6,12 @@ The purpose of this roadmap is to collect and organize open-source resources for
 
 Topics are ordered and organized according to the vision of the planner, this order isn't at all obligatory but it's recommended to ensure that the learner doesn't face much problems.
 
-## Content
+ <h1>Content</h1> 
 
-### Level 0
+<details>
+
+<summary> <h1>level 0</h1> </summary>
+
 
 #### Objectives
 _By the end of this level, the learner should know_
@@ -102,9 +105,10 @@ _By the end of this level, the learner should know_
         </tr>
     </tbody>
 </table>
+</details>
 
-
-### Level 1
+<details>
+<summary> <h1>level 1</h1> </summary>
 
 #### Objectives
 _By the end of this level, the learner should learn_
@@ -359,8 +363,10 @@ _By the end of this level, the learner should learn_
         </tr>
     </tbody>
 </table>
+</details>
 
-### Level 2
+<details>
+<summary> <h1>level 2</h1> </summary>
 
 #### Objectives
 _By the end of this level, the learner should learn_
@@ -732,8 +738,9 @@ _By the end of this level, the learner should learn_
         </tr>
     </tbody>
 </table>
-
-### Level 3
+</details>
+<details>
+<summary> <h1>level 3</h1> </summary>
 
 #### Objectives
 _By the end of this level, the learner should learn_
@@ -1104,8 +1111,9 @@ _By the end of this level, the learner should learn_
     </tbody>
 </table>
 
-
-### Level 4
+</details>
+<details>
+<summary> <h1>level 4</h1> </summary>
 
 #### Objectives
 _By the end of this level, the learner should learn_
@@ -1262,3 +1270,4 @@ _By the end of this level, the learner should learn_
         </tr>
     </tbody>
 </table>
+</details>
