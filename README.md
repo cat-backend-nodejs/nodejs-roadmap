@@ -6,9 +6,12 @@ The purpose of this roadmap is to collect and organize open-source resources for
 
 Topics are ordered and organized according to the vision of the planner, this order isn't at all obligatory but it's recommended to ensure that the learner doesn't face much problems.
 
-## Content
+ <h1>Content</h1> 
 
-### Level 0
+<details>
+
+<summary> <h1>level 0</h1> </summary>
+
 
 #### Objectives
 _By the end of this level, the learner should know_
@@ -102,9 +105,10 @@ _By the end of this level, the learner should know_
         </tr>
     </tbody>
 </table>
+</details>
 
-
-### Level 1
+<details>
+<summary> <h1>level 1</h1> </summary>
 
 #### Objectives
 _By the end of this level, the learner should learn_
@@ -320,6 +324,7 @@ _By the end of this level, the learner should learn_
                 <h5>🎞️ Resources</h5>
                 <h6>🌏 Arabic</h6>
                 <ul>
+                    <li><a href="https://youtu.be/XRoV7moNSsM?si=lhuf-Ks-s0615_dY">CodeZone (Express)</a> [4]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (Express & Mongoose)</a> [7:18]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7">Emam Academy (Express & Mongoose)</a> [13:36]</li>
                     <li><a href="https://www.youtube.com/playlist?list=PLd6o9p13Lc5387FWk_GXU0Rh5AhrBGod5">Mohamed Ramadan (MongoDB)</a></li>
@@ -358,8 +363,10 @@ _By the end of this level, the learner should learn_
         </tr>
     </tbody>
 </table>
+</details>
 
-### Level 2
+<details>
+<summary> <h1>level 2</h1> </summary>
 
 #### Objectives
 _By the end of this level, the learner should learn_
@@ -731,8 +738,9 @@ _By the end of this level, the learner should learn_
         </tr>
     </tbody>
 </table>
-
-### Level 3
+</details>
+<details>
+<summary> <h1>level 3</h1> </summary>
 
 #### Objectives
 _By the end of this level, the learner should learn_
@@ -1103,8 +1111,9 @@ _By the end of this level, the learner should learn_
     </tbody>
 </table>
 
-
-### Level 4
+</details>
+<details>
+<summary> <h1>level 4</h1> </summary>
 
 #### Objectives
 _By the end of this level, the learner should learn_
@@ -1261,3 +1270,4 @@ _By the end of this level, the learner should learn_
         </tr>
     </tbody>
 </table>
+</details>
