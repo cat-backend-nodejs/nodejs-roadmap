@@ -8,7 +8,7 @@ Topics are ordered and organized according to the vision of the planner, this or
 
 > #### **NOTE**  
 > 🚧 This version of the roadmap is still under development.   
-> You can refer to **Version 1** in the [`v2` branch](https://github.com/cat-backend-nodejs/nodejs-roadmap/tree/v1) to find any missing resources until this is done.
+> You can refer to **Version 1** in the [`v1` branch](https://github.com/cat-backend-nodejs/nodejs-roadmap/tree/v1) to find any missing resources until this is done.
 
 ## Content
 
