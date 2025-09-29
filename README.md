@@ -6,6 +6,10 @@ The purpose of this roadmap is to collect and organize open-source resources for
 
 Topics are ordered and organized according to the vision of the planner, this order isn't at all obligatory but it's recommended to ensure that the learner doesn't face much problems.
 
+> #### **NOTE**  
+> This is **Version 1** of the roadmap.  
+> 🚧 **Version 2 is currently in progress** in the [`v2` branch](https://github.com/cat-backend-nodejs/nodejs-roadmap/tree/v2). It will have more updated resources.
+
 ## Content
 
 ### Level 0
