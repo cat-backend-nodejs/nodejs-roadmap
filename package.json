@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-roadmap",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Generate README roadmap content from structured data",
+  "scripts": {
+    "build": "node scripts/generate-roadmap.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "js-yaml": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
