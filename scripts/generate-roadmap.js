@@ -228,7 +228,7 @@ function renderAll(data) {
 }
 
 function insertOrReplace(readme, content) {
-  const block = `\n${START_MARK}\n${content}\n${END_MARK}\n`;
+  const block = `${START_MARK}\n${content}\n${END_MARK}`;
   const startIdx = readme.indexOf(START_MARK);
   const endIdx = readme.indexOf(END_MARK);
   if (startIdx !== -1 && endIdx !== -1 && endIdx > startIdx) {
