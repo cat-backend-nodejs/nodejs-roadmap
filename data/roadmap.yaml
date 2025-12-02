@@ -310,32 +310,34 @@ levels:
   - id: 2
     title: Level 2
     objectives:
-      - 'TypeScript**: Syntax, Features, Usage'
-      - 'Architecture**: MVC and other design patterns'
-      - 'Express**: Validation, Authentication, Authorization, Sessions, APIs, JWT'
-      - 'API Documentation**: Rules, using Swagger & Postman'
-      - 'Unit Testing**: Test-Driven Development, Using tools like `jest` and `supertest'
+      - '**TypeScript**: Syntax, Features, Usage'
+      - '**Architecture**: MVC and other design patterns'
+      - '**Express**: Validation, Authentication, Authorization, Sessions, APIs, JWT'
+      - '**API Documentation**: Rules, using Swagger & Postman'
+      - '**Unit Testing**: Test-Driven Development, Using tools like `jest` and `supertest'
     weeks:
       - week: 1
-        topics:
-          - Why TypeScript
-          - TypeScript Syntax
-          - TypeScript Compiling
-          - TypeScript inside an Express project
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: Elzero Web School (TypeScript Syntax & Compiling)
+            "TypeScript":
+              - title: Elzero Web School
                 url: https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ
-              - title: Youssef Abbas (How to use TypeScript with Express App)
+              - title: Youssef Abbas
+                url: https://www.youtube.com/playlist?list=PL5gCk5NdNx5_QxWasJ3msGjlpB7hs1-nF
+            "TypeScript with Backend Apps":
+              - title: Youssef Abbas
                 url: https://www.youtube.com/watch?v=N17Tef8gh-Q
           English:
-            General:
-              - title: The Net Ninja (TypeScript Syntax & Compiling)
-                url: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI
-              - title: Colt Steele (How to use TypeScript with Express App)
-                url: https://www.youtube.com/watch?v=qy8PxD3alWw
+            "TypeScript":
+              - title: The Net Ninja
+                url: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN
+            "TypeScript Builders & Runners":
+              - title: Better Stack
+                url: https://www.youtube.com/watch?v=u_GQSEjis48
+            "TypeScript with Backend Apps":
+              - title: Anson (first 1 hour only)
+                url: https://www.youtube.com/watch?v=Be7X6QJusJA
         task:
           title: 'Level 2: Week 1 Quiz'
           url: >-

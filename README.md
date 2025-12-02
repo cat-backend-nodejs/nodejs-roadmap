@@ -499,11 +499,11 @@ _By the end of this level, the learner should learn_
 ### Level 2
 #### Objectives
 _By the end of this level, the learner should learn_
-* TypeScript**: Syntax, Features, Usage
-* Architecture**: MVC and other design patterns
-* Express**: Validation, Authentication, Authorization, Sessions, APIs, JWT
-* API Documentation**: Rules, using Swagger &amp; Postman
-* Unit Testing**: Test-Driven Development, Using tools like `jest` and `supertest
+* **TypeScript**: Syntax, Features, Usage
+* **Architecture**: MVC and other design patterns
+* **Express**: Validation, Authentication, Authorization, Sessions, APIs, JWT
+* **API Documentation**: Rules, using Swagger &amp; Postman
+* **Unit Testing**: Test-Driven Development, Using tools like `jest` and `supertest
 
 #### Plan
 <table>
@@ -520,19 +520,33 @@ _By the end of this level, the learner should learn_
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>TypeScript
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">Elzero Web School (TypeScript Syntax &amp; Compiling)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=N17Tef8gh-Q">Youssef Abbas (How to use TypeScript with Express App)</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">Elzero Web School</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PL5gCk5NdNx5_QxWasJ3msGjlpB7hs1-nF">Youssef Abbas</a></li>
+    </ul>
+  </li>
+  <li>TypeScript with Backend Apps
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=N17Tef8gh-Q">Youssef Abbas</a></li>
     </ul>
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>TypeScript
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI">The Net Ninja (TypeScript Syntax &amp; Compiling)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=qy8PxD3alWw">Colt Steele (How to use TypeScript with Express App)</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN">The Net Ninja</a></li>
+    </ul>
+  </li>
+  <li>TypeScript Builders &amp; Runners
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=u_GQSEjis48">Better Stack</a></li>
+    </ul>
+  </li>
+  <li>TypeScript with Backend Apps
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=Be7X6QJusJA">Anson (first 1 hour only)</a></li>
     </ul>
   </li>
 </ul>
