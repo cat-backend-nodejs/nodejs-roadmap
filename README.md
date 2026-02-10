@@ -560,24 +560,40 @@ _By the end of this level, the learner should learn_
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>Project Structure: Controllers, Services and Repositories
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=yIhRWW9vB5s">VivaCode (MVC in Express)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (MVC in Express)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=9DQuFEar2og">Code with Fadi (express-validator)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=68ssWH3cffc">Muhammed Essa (Environment Variables Part 1)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=Mi-2qc_3gA4">Index Academy (Environment Variables Part 2)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=uoHjKX5cmzY">Courses 4 Arab (See English resources for more details)</a></li>
+    </ul>
+  </li>
+  <li>Project Structure: Environment Variables in OS
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=lu7q8lbuUW4">Hassan Saad</a></li>
+    </ul>
+  </li>
+  <li>Project Structure: Environment Variables in Node.js
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=Nu--8zwuj6o">Algorithm Academy</a></li>
+      <li><a href="https://www.youtube.com/watch?v=Mi-2qc_3gA4">Index Academy</a></li>
     </ul>
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>Project Structure: Controllers and Services
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=Cgvopu9zg8Y">PedroTech (MVC in Express)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=z8m_Vy_9FIs">Raddy (express-validator)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=KdFhoEvSAcM">procademy (Environment Variables Part 1)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=PxshhOKNPpQ">procademy (Environment Variables Part 2)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=ZWQlUXV74w0">Covalence</a></li>
+      <li><a href="https://www.youtube.com/watch?v=hyc-7w3pee8">Sriniously</a></li>
+      <li><a href="https://www.youtube.com/watch?v=fc6o1gwqZuA">Software Developer Diaries</a></li>
+    </ul>
+  </li>
+  <li>Project Structure: Environment Variables in OS
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=bd65z5VZ7L4">JimShapedCoding</a></li>
+    </ul>
+  </li>
+  <li>Project Structure: Environment Variables in Node.js
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS">procademy [47:48]</a></li>
     </ul>
   </li>
 </ul>
@@ -588,22 +604,51 @@ _By the end of this level, the learner should learn_
         <tr>
             <th>Week 3</th>
             <td>
-<h5>🎞️ Tutorials</h5>
+<h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>Validation with `express-validator`
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLXgJ7cArk9uR_xxd3iZIwTg0mKUDYsxoi">Abdulaziz Alzaabi</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i">Index Academy [44:47]</a></li>
+      <li><a href="https://www.youtube.com/watch?v=9DQuFEar2og">Code with Fadi</a></li>
+    </ul>
+  </li>
+  <li>Schema Validation with `zod`
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=L54fj-7pywY">Fullstack Yazan</a></li>
+    </ul>
+  </li>
+  <li>Zod inside Express
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=HaCSWt7Xm84">Seif El-Din Sweilam</a></li>
+    </ul>
+  </li>
+  <li>Error Handling
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i">Index Academy [36:43]</a></li>
     </ul>
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>Validation with `express-validator`
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD">The Net Ninja</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PL78sHffDjI75uMmHCqxil_YROcHl5ONNj">Easy Learning</a></li>
+      <li><a href="https://www.youtube.com/watch?v=4ugw5yRwhR0">Anson</a></li>
+    </ul>
+  </li>
+  <li>Schema Validation with `zod`
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=L6BE-U3oy80">Web Dev Simplified</a></li>
+    </ul>
+  </li>
+  <li>Zod inside Express
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=L-Fl2RPtP3I">JacobToftgaard</a></li>
+    </ul>
+  </li>
+  <li>Error Handling
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS">procademy [90:101]</a></li>
     </ul>
   </li>
 </ul>
@@ -614,22 +659,31 @@ _By the end of this level, the learner should learn_
         <tr>
             <th>Week 4</th>
             <td>
-<h5>🎞️ Tutorials</h5>
+<h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>MVC Project Tutorial: Follow Along and submit your code in the task form
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLXgJ7cArk9uR_xxd3iZIwTg0mKUDYsxoi">Abdulaziz Alzaabi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=6fBgH9nYC_s">Courses 4 Arab (User Management Dashboard)</a></li>
+    </ul>
+  </li>
+  <li>Session-Based Authentication
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script [28:31 + 35]</a></li>
     </ul>
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>MVC Project Tutorial: Follow Along and submit your code in the task form
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD">The Net Ninja</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PL78sHffDjI75uMmHCqxil_YROcHl5ONNj">Easy Learning</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD">The Net Ninja (Blog Website)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=PAm_QcN6Ffs">Raddy (User Management Dashboard)</a></li>
+    </ul>
+  </li>
+  <li>Session-Based Authentication
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=TDe7DRYK8vU">The Full Stack Junkie</a></li>
     </ul>
   </li>
 </ul>

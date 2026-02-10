@@ -343,74 +343,94 @@ levels:
           url: >-
             https://docs.google.com/forms/d/e/1FAIpQLSdYHFMMbVj5a_FZfIQ8JTeCBOIWdyex2TlEdYMcRne3DPL9OA/viewform
       - week: 2
-        topics:
-          - MVC Design Architecture
-          - Server-Side Validation
-          - Environment variables and dotenv
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: VivaCode (MVC in Express)
-                url: https://www.youtube.com/watch?v=yIhRWW9vB5s
-              - title: KMR Script (MVC in Express)
-                url: https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp
-              - title: Code with Fadi (express-validator)
-                url: https://www.youtube.com/watch?v=9DQuFEar2og
-              - title: Muhammed Essa (Environment Variables Part 1)
-                url: https://www.youtube.com/watch?v=68ssWH3cffc
-              - title: Index Academy (Environment Variables Part 2)
+            "Project Structure: Controllers, Services and Repositories":
+              - title: Courses 4 Arab (See English resources for more details)
+                url: https://www.youtube.com/watch?v=uoHjKX5cmzY
+            "Project Structure: Environment Variables in OS":
+              - title: Hassan Saad
+                url: https://www.youtube.com/watch?v=lu7q8lbuUW4
+            "Project Structure: Environment Variables in Node.js":
+              - title: Algorithm Academy
+                url: https://www.youtube.com/watch?v=Nu--8zwuj6o
+              - title: Index Academy
                 url: https://www.youtube.com/watch?v=Mi-2qc_3gA4
           English:
-            General:
-              - title: PedroTech (MVC in Express)
-                url: https://www.youtube.com/watch?v=Cgvopu9zg8Y
-              - title: Raddy (express-validator)
-                url: https://www.youtube.com/watch?v=z8m_Vy_9FIs
-              - title: procademy (Environment Variables Part 1)
-                url: https://www.youtube.com/watch?v=KdFhoEvSAcM
-              - title: procademy (Environment Variables Part 2)
-                url: https://www.youtube.com/watch?v=PxshhOKNPpQ
+            "Project Structure: Controllers and Services":
+              - title: Covalence
+                url: https://www.youtube.com/watch?v=ZWQlUXV74w0
+              - title: Sriniously
+                url: https://www.youtube.com/watch?v=hyc-7w3pee8
+              - title: Software Developer Diaries
+                url: https://www.youtube.com/watch?v=fc6o1gwqZuA
+            "Project Structure: Environment Variables in OS":
+              - title: JimShapedCoding
+                url: https://www.youtube.com/watch?v=bd65z5VZ7L4
+            "Project Structure: Environment Variables in Node.js":
+              - title: procademy [47:48]
+                url: https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS
         task:
           title: 'Level 2: Week 2 Quiz'
           url: >-
             https://docs.google.com/forms/d/e/1FAIpQLSfACZEJqxmpChEQZv-mF7Bbmkt67iRgqudtSDGfmlzyjZIjJQ/viewform
       - week: 3
         topics: []
-        resourcesTitle: 🎞️ Tutorials
+        resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: KMR Script
-                url: https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp
-              - title: Abdulaziz Alzaabi
-                url: https://www.youtube.com/playlist?list=PLXgJ7cArk9uR_xxd3iZIwTg0mKUDYsxoi
+            "Validation with `express-validator`":
+              - title: Index Academy [44:47]
+                url: https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i
+              - title: Code with Fadi
+                url: https://www.youtube.com/watch?v=9DQuFEar2og
+            "Schema Validation with `zod`":
+              - title: Fullstack Yazan
+                url: https://www.youtube.com/watch?v=L54fj-7pywY
+            "Zod inside Express":
+              - title: Seif El-Din Sweilam
+                url: https://www.youtube.com/watch?v=HaCSWt7Xm84
+            "Error Handling":
+              - title: Index Academy [36:43]
+                url: https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i
           English:
-            General:
-              - title: The Net Ninja
-                url: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD
-              - title: Easy Learning
-                url: https://www.youtube.com/playlist?list=PL78sHffDjI75uMmHCqxil_YROcHl5ONNj
+            "Validation with `express-validator`":
+              - title: Anson
+                url: https://www.youtube.com/watch?v=4ugw5yRwhR0
+            "Schema Validation with `zod`":
+              - title: Web Dev Simplified
+                url: https://www.youtube.com/watch?v=L6BE-U3oy80
+            "Zod inside Express":
+              - title: JacobToftgaard
+                url: https://www.youtube.com/watch?v=L-Fl2RPtP3I
+            "Error Handling":
+              - title: procademy [90:101]
+                url: https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS
         task:
           title: 'Level 2: Week 3 Quiz'
           url: >-
             https://docs.google.com/forms/d/e/1FAIpQLSfnfmkXeEE5XmWWtO6VVbpp_QP3JnMmp2OMmwNBj4b4a8Kwng/viewform
       - week: 4
         topics: []
-        resourcesTitle: 🎞️ Tutorials
+        resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: KMR Script
+            "MVC Project Tutorial: Follow Along and submit your code in the task form":
+              - title: Courses 4 Arab (User Management Dashboard)
+                url: https://www.youtube.com/watch?v=6fBgH9nYC_s
+            "Session-Based Authentication":
+              - title: KMR Script [28:31 + 35]
                 url: https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp
-              - title: Abdulaziz Alzaabi
-                url: https://www.youtube.com/playlist?list=PLXgJ7cArk9uR_xxd3iZIwTg0mKUDYsxoi
           English:
-            General:
-              - title: The Net Ninja
+            "MVC Project Tutorial: Follow Along and submit your code in the task form":
+              - title: The Net Ninja (Blog Website)
                 url: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD
-              - title: Easy Learning
-                url: https://www.youtube.com/playlist?list=PL78sHffDjI75uMmHCqxil_YROcHl5ONNj
+              - title: Raddy (User Management Dashboard)
+                url: https://www.youtube.com/watch?v=PAm_QcN6Ffs
+            "Session-Based Authentication":
+              - title: The Full Stack Junkie
+                url: https://www.youtube.com/watch?v=TDe7DRYK8vU
         task:
           title: 'Level 2: Week 4 Quiz'
           url: >-
