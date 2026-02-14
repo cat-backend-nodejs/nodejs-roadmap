@@ -1341,19 +1341,34 @@ _By the end of this level, the learner should learn_
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>Session: Challenges in Payment Integration
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=isakqT0fOsY">JobStack (Session: Payment Integration)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS">Takhareef Mobarmeg (PayPal Integration)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=isakqT0fOsY">JobStack</a></li>
+    </ul>
+  </li>
+  <li>PayPal Integration
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS">Takhareef Mobarmeg [39:40]</a></li>
+    </ul>
+  </li>
+  <li>Paymob Integration
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=hev6jEEJuLw">Eng. Mina Soltans</a></li>
     </ul>
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>Stripe Integration
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=mI_-1tbIXQI">Web Dev Simplified (Stripe Integration)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=DNM9FdFrI1k">Web Dev Simplified (PayPal Integration)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=cheDHoEazPs">manfra.io</a></li>
+      <li><a href="https://www.youtube.com/watch?v=mI_-1tbIXQI">Web Dev Simplified</a></li>
+    </ul>
+  </li>
+  <li>PayPal Integration
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=QbdDg8wgBYg">manfra.io</a></li>
+      <li><a href="https://www.youtube.com/watch?v=DNM9FdFrI1k">Web Dev Simplified</a></li>
     </ul>
   </li>
 </ul>
@@ -1365,10 +1380,15 @@ _By the end of this level, the learner should learn_
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>Intro to GraphQL
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=2QxM1UDwOMw">EgyptJS (GraphQL)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=QonyaNVeEGo">Yallacode (What is GraphQL)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=dhsU0rrLATY">Ahmed Elemam</a></li>
+      <li><a href="https://www.youtube.com/watch?v=QonyaNVeEGo">Yallacode</a></li>
+    </ul>
+  </li>
+  <li>GraphQL in Action
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=B_r_REcIO8g">Ali Sleem</a></li>
       <li><a href="https://www.youtube.com/watch?v=sYJy7sOz_Sw">Yallacode (GraphQL in Node.js)</a></li>
       <li><a href="https://www.youtube.com/playlist?list=PLt0HRIA9i35t6DbbX2Q7NUc0uKJoIR4qQ">Learn With Naw</a></li>
     </ul>
@@ -1376,10 +1396,15 @@ _By the end of this level, the learner should learn_
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>Intro to GraphQL
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=eIQh02xuVw4">Fireship</a></li>
+    </ul>
+  </li>
+  <li>GraphQL in Action
     <ul>
       <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y">The Net Ninja</a></li>
-      <li><a href="https://www.youtube.com/watch?v=ZQL7tL2S0oQ">Web Dev Simplified</a></li>
+      <li><a href="https://www.youtube.com/watch?v=yqWzCV0kU_c">PedroTech</a></li>
     </ul>
   </li>
 </ul>
@@ -1391,22 +1416,39 @@ _By the end of this level, the learner should learn_
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>Session: Backend Caching Strategies
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=XP32O_gMZkA">JobStack (Session: Scaling App with Cash Strategies)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=XP32O_gMZkA">JobStack</a></li>
+    </ul>
+  </li>
+  <li>Intro to Redis
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=LILkBFQKdi0">Islam Mahmoud</a></li>
     </ul>
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>Backend Caching Strategies
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=bP4BeUjNkXc">Software Developer Diaries (How Caching Works)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=jgpVdJB2sKQ">Web Dev Simplified (Redis Crash Course)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=oaJq1mQ3dFI">Traversy Media (Redis in Node.js)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=Ezv30i47sDs">Raddy (Using node-schedule)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=StkFajPnd7w">Mafia Codes (Using node-schedule)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=ZG0Fl5Ejq68">OpenJavaScript (Using node-schedule)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=bP4BeUjNkXc">Software Developer Diaries</a></li>
+    </ul>
+  </li>
+  <li>Redis Crash Course
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=jgpVdJB2sKQ">Web Dev Simplified</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P">Net Ninja</a></li>
+    </ul>
+  </li>
+  <li>API Caching with Redis
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=QqTB97aMa4c">Better Stack</a></li>
+    </ul>
+  </li>
+  <li>CRON Jobs and Schedules
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=_WFcUzO_9CY">Better Stack</a></li>
+      <li><a href="https://www.youtube.com/watch?v=ZG0Fl5Ejq68">OpenJavaScript</a></li>
     </ul>
   </li>
 </ul>
@@ -1430,13 +1472,13 @@ _By the end of this level, the learner should learn_
 ### Level 4
 #### Objectives
 _By the end of this level, the learner should learn_
-* Hosting**: Linux operating system, SSH protocol, VPS hosting
-* Web Security**: Avoiding Attacks and designing security layers
-* Architecture**: Microservices, Nodejs Design Patterns
-* Automation**: Tasks and pipelines
-* System Design**: Fundamentals of designing complex software
-* Software Engineering**: SDLC, Agile Workflow, DevOps Workflow
-* Containers**: Concept, Intro to Kubernetes
+* **Hosting**: Linux operating system, SSH protocol, VPS hosting
+* **Web Security**: Avoiding Attacks and designing security layers
+* **Architecture**: Microservices, Nodejs Design Patterns
+* **Automation**: Tasks and pipelines
+* **System Design**: Fundamentals of designing complex software
+* **Software Engineering**: SDLC, Agile Workflow, DevOps Workflow
+* **Containers**: Concept, Docker and Kubernetes
 
 #### Plan
 <table>
@@ -1450,46 +1492,243 @@ _By the end of this level, the learner should learn_
         <tr>
             <th>Week 1</th>
             <td>
-<h5>🎯 Topics</h5>
+<h5>🎞️ Resources</h5>
+<h6>🌏 Arabic</h6>
 <ul>
-  <li>Creational Design Patterns
-                        
-                            Builder
-                            Factory
-                            Singleton
-                            Prototype</li>
+  <li>Design Patterns Introduction
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=aSDdHSW6_bU">Passionate Coders</a></li>
+    </ul>
+  </li>
+  <li>Creational Design Patterns: Factory
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=rnUk_ivqtmo">Passionate Coders</a></li>
+      <li><a href="https://www.youtube.com/watch?v=FyOcp3_F4T0">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Creational Design Patterns: Abstract Factory
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=iiaWOPwYKnk">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Creational Design Patterns: Singleton
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=MfA48pQsXsg">Passionate Coders</a></li>
+      <li><a href="https://www.youtube.com/watch?v=WoVWbSqyKUo">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Creational Design Patterns: Builder
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=51Ap3s__P_Q">Passionate Coders</a></li>
+      <li><a href="https://www.youtube.com/watch?v=f8IfMbskSPw">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Creational Design Patterns: Prototype
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=EiqLJ_3ynTw">Mohamed Reda</a></li>
+      <li><a href="https://www.youtube.com/watch?v=E2pHVyyHBA0">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+</ul>
+<h6>🌏 English</h6>
+<ul>
+  <li>Design Patterns Introduction
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=BWprw8UHIzA">Web Dev Simplified</a></li>
+    </ul>
+  </li>
+  <li>Creational Design Patterns: Factory
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=EcFVTgRHJLM">Christopher Okhravi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=kuirGzhGhyw">DevSage</a></li>
+    </ul>
+  </li>
+  <li>Creational Design Patterns: Abstract Factory
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=v-GiuMmsXj4">Christopher Okhravi</a></li>
+    </ul>
+  </li>
+  <li>Creational Design Patterns: Singleton
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=hUE_j6q0LTQ">Christopher Okhravi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=JKNjfDCNPa4">DevSage</a></li>
+      <li><a href="https://www.youtube.com/watch?v=sJ-c3BA-Ypo">Web Dev Simplified</a></li>
+    </ul>
+  </li>
+  <li>Creational Design Patterns: Builder
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=M7Xi1yO_s8E">Web Dev Simplified</a></li>
+    </ul>
+  </li>
+  <li>Creational Design Patterns: Prototype
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=tqYQqSLLmEo">NeetCodeIO</a></li>
+      <li><a href="https://www.youtube.com/watch?v=cDCz6_QgwE4">Code with Ahsan</a></li>
+    </ul>
+  </li>
 </ul>
 </td>
         </tr>
         <tr>
             <th>Week 2</th>
             <td>
-<h5>🎯 Topics</h5>
+<h5>🎞️ Resources</h5>
+<h6>🌏 Arabic</h6>
 <ul>
-  <li>Structural Design Patterns
-                        
-                            Adapter
-                            Bridge
-                            Composite
-                            Decorator
-                            Facade
-                            Flyweight
-                            Proxy</li>
+  <li>Structural Design Patterns: Adapter
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=9YNAPv4Uz98">Passionate Coders</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm">Mohamed Reda [5,6]</a></li>
+      <li><a href="https://www.youtube.com/watch?v=c4GlFncNT14">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Structural Design Patterns: Bridge
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=Ol3iNQTxH-8">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Structural Design Patterns: Composite
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=jZgHOd3K-0s">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Structural Design Patterns: Decorator
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=IxuRirKFSoo">Mohamed Reda</a></li>
+      <li><a href="https://www.youtube.com/watch?v=jnjhx6_hpa8">Passionate Coders</a></li>
+      <li><a href="https://www.youtube.com/watch?v=yCqZiNZUC58">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Structural Design Patterns: Facade
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm">Mohamed Reda [7:10]</a></li>
+      <li><a href="https://www.youtube.com/watch?v=5cVBDkKfSmA">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Structural Design Patterns: Flyweight
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=VP0pL-6q55U">Mohamed Reda</a></li>
+      <li><a href="https://www.youtube.com/watch?v=oyvSrkpn2vs">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Structural Design Patterns: Proxy
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=yQXrKJ6JjiE">Mohamed Abusarea</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm">Mohamed Reda [1:3]</a></li>
+      <li><a href="https://www.youtube.com/watch?v=ZdQ9-j65rJM">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+</ul>
+<h6>🌏 English</h6>
+<ul>
+  <li>Structural Design Patterns: Adapter
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=2PKQtcJjYvc">Christopher Okhravi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=beU4i949YXU">Simply Explained</a></li>
+      <li><a href="https://www.youtube.com/watch?v=YVhFqT15LEg">Code Legends</a></li>
+    </ul>
+  </li>
+  <li>Structural Design Patterns: Bridge
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=F1YQ7YRjttI">Christopher Okhravi</a></li>
+    </ul>
+  </li>
+  <li>Structural Design Patterns: Composite
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=EWDmWbJ4wRA">Christopher Okhravi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=O03_XasKV6I">Choice Specs</a></li>
+    </ul>
+  </li>
+  <li>Structural Design Patterns: Decorator
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=GCraGHx6gso">Christopher Okhravi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=MeHRlFF1Tfk">Code Legends</a></li>
+    </ul>
+  </li>
+  <li>Structural Design Patterns: Facade
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=K4FkHVO5iac">Christopher Okhravi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=fHPa5xzbpaA">Web Dev Simplified</a></li>
+    </ul>
+  </li>
+  <li>Structural Design Patterns: Flyweight
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=6uiofJpT3x0">Advanced C</a></li>
+    </ul>
+  </li>
+  <li>Structural Design Patterns: Proxy
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=NwaabHqPHeM">Christopher Okhravi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=SFTpSFQNPts">DevSage</a></li>
+    </ul>
+  </li>
 </ul>
 </td>
         </tr>
         <tr>
             <th>Week 3</th>
             <td>
-<h5>🎯 Topics</h5>
+<h5>🎞️ Resources</h5>
+<h6>🌏 Arabic</h6>
 <ul>
-  <li>Behavioral Design Patterns (1)
-                        
-                            Chain of responsibility
-                            Observer
-                            Command
-                            Interpreter
-                            Iterator</li>
+  <li>Behavioral Design Patterns: Chain of Responsibility
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=MGz-yzPZSrw">Passionate Coders</a></li>
+      <li><a href="https://www.youtube.com/watch?v=-UQND--CVew">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Observer
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=R-N7YWJSol8">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Command
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR">Passionate Coders [10:12]</a></li>
+      <li><a href="https://www.youtube.com/watch?v=jZgHOd3K-0s">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Interpreter
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=zakCZEVGgJU">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Iterator
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=ZZBTSAlhim4">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+</ul>
+<h6>🌏 English</h6>
+<ul>
+  <li>Behavioral Design Patterns: Chain of Responsibility
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=CeFxMlQZxyI">levonog</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Observer
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=_BpmfnqjgzQ">Christopher Okhravi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=45TeJEmcqk8">DevSage</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Command
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=9qA5kw8dcSU">Christopher Okhravi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=GQzfF5EMD7o">Web Dev Simplified</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Interpreter
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=Ia83UqTNApY">levonog</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Iterator
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=uNTNEfwYXhI">Christopher Okhravi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=c85EStPZR8M">DevSage</a></li>
+    </ul>
+  </li>
 </ul>
 </td>
         </tr>

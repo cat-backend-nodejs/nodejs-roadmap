@@ -879,61 +879,77 @@ levels:
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: 'JobStack (Session: Payment Integration)'
+            "Session: Challenges in Payment Integration":
+              - title: 'JobStack'
                 url: https://www.youtube.com/watch?v=isakqT0fOsY
-              - title: Takhareef Mobarmeg (PayPal Integration)
+            "PayPal Integration":
+              - title: Takhareef Mobarmeg [39:40]
                 url: https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS
+            "Paymob Integration":
+              - title: Eng. Mina Soltans
+                url: https://www.youtube.com/watch?v=hev6jEEJuLw
           English:
-            General:
-              - title: Web Dev Simplified (Stripe Integration)
+            "Stripe Integration":
+              - title: manfra.io
+                url: https://www.youtube.com/watch?v=cheDHoEazPs
+              - title: Web Dev Simplified
                 url: https://www.youtube.com/watch?v=mI_-1tbIXQI
-              - title: Web Dev Simplified (PayPal Integration)
+            "PayPal Integration":
+              - title: manfra.io
+                url: https://www.youtube.com/watch?v=QbdDg8wgBYg
+              - title: Web Dev Simplified
                 url: https://www.youtube.com/watch?v=DNM9FdFrI1k
       - week: 9
-        topics:
-          - GraphQL
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: EgyptJS (GraphQL)
-                url: https://www.youtube.com/watch?v=2QxM1UDwOMw
-              - title: Yallacode (What is GraphQL)
+            "Intro to GraphQL":
+              - title: Ahmed Elemam
+                url: https://www.youtube.com/watch?v=dhsU0rrLATY
+              - title: Yallacode
                 url: https://www.youtube.com/watch?v=QonyaNVeEGo
+            "GraphQL in Action":
+              - title: Ali Sleem
+                url: https://www.youtube.com/watch?v=B_r_REcIO8g
               - title: Yallacode (GraphQL in Node.js)
                 url: https://www.youtube.com/watch?v=sYJy7sOz_Sw
               - title: Learn With Naw
                 url: https://www.youtube.com/playlist?list=PLt0HRIA9i35t6DbbX2Q7NUc0uKJoIR4qQ
           English:
-            General:
+            "Intro to GraphQL":
+              - title: Fireship
+                url: https://www.youtube.com/watch?v=eIQh02xuVw4
+            "GraphQL in Action":
               - title: The Net Ninja
                 url: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y
-              - title: Web Dev Simplified
-                url: https://www.youtube.com/watch?v=ZQL7tL2S0oQ
+              - title: PedroTech
+                url: https://www.youtube.com/watch?v=yqWzCV0kU_c
       - week: 10
-        topics:
-          - Caching with Redis
-          - Task Scheduling
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: 'JobStack (Session: Scaling App with Cash Strategies)'
+            "Session: Backend Caching Strategies":
+              - title: 'JobStack'
                 url: https://www.youtube.com/watch?v=XP32O_gMZkA
+            "Intro to Redis":
+              - title: Islam Mahmoud
+                url: https://www.youtube.com/watch?v=LILkBFQKdi0
           English:
-            General:
-              - title: Software Developer Diaries (How Caching Works)
+            "Backend Caching Strategies":
+              - title: Software Developer Diaries
                 url: https://www.youtube.com/watch?v=bP4BeUjNkXc
-              - title: Web Dev Simplified (Redis Crash Course)
+            "Redis Crash Course":
+              - title: Web Dev Simplified
                 url: https://www.youtube.com/watch?v=jgpVdJB2sKQ
-              - title: Traversy Media (Redis in Node.js)
-                url: https://www.youtube.com/watch?v=oaJq1mQ3dFI
-              - title: Raddy (Using node-schedule)
-                url: https://www.youtube.com/watch?v=Ezv30i47sDs
-              - title: Mafia Codes (Using node-schedule)
-                url: https://www.youtube.com/watch?v=StkFajPnd7w
-              - title: OpenJavaScript (Using node-schedule)
+              - title: Net Ninja
+                url: https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P
+            "API Caching with Redis":
+              - title: Better Stack
+                url: https://www.youtube.com/watch?v=QqTB97aMa4c
+            "CRON Jobs and Schedules":
+              - title: Better Stack
+                url: https://www.youtube.com/watch?v=_WFcUzO_9CY
+              - title: OpenJavaScript
                 url: https://www.youtube.com/watch?v=ZG0Fl5Ejq68
       - phase: Final Project
         topics: []
@@ -941,39 +957,146 @@ levels:
   - id: 4
     title: Level 4
     objectives:
-      - 'Hosting**: Linux operating system, SSH protocol, VPS hosting'
-      - 'Web Security**: Avoiding Attacks and designing security layers'
-      - 'Architecture**: Microservices, Nodejs Design Patterns'
-      - 'Automation**: Tasks and pipelines'
-      - 'System Design**: Fundamentals of designing complex software'
-      - 'Software Engineering**: SDLC, Agile Workflow, DevOps Workflow'
-      - 'Containers**: Concept, Intro to Kubernetes'
+      - '**Hosting**: Linux operating system, SSH protocol, VPS hosting'
+      - '**Web Security**: Avoiding Attacks and designing security layers'
+      - '**Architecture**: Microservices, Nodejs Design Patterns'
+      - '**Automation**: Tasks and pipelines'
+      - '**System Design**: Fundamentals of designing complex software'
+      - '**Software Engineering**: SDLC, Agile Workflow, DevOps Workflow'
+      - '**Containers**: Concept, Docker and Kubernetes'
     weeks:
       - week: 1
-        topics:
-          - |-
-            Creational Design Patterns
-                                    
-                                        Builder
-                                        Factory
-                                        Singleton
-                                        Prototype
         resourcesTitle: 🎞️ Resources
-        resources: {}
+        resources:
+          Arabic:
+            "Design Patterns Introduction":
+              - title: Passionate Coders
+                url: https://www.youtube.com/watch?v=aSDdHSW6_bU
+            "Creational Design Patterns: Factory":
+              - title: Passionate Coders
+                url: https://www.youtube.com/watch?v=rnUk_ivqtmo
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=FyOcp3_F4T0
+            "Creational Design Patterns: Abstract Factory":
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=iiaWOPwYKnk
+            "Creational Design Patterns: Singleton":
+              - title: Passionate Coders
+                url: https://www.youtube.com/watch?v=MfA48pQsXsg
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=WoVWbSqyKUo
+            "Creational Design Patterns: Builder":
+              - title: Passionate Coders
+                url: https://www.youtube.com/watch?v=51Ap3s__P_Q
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=f8IfMbskSPw
+            "Creational Design Patterns: Prototype":
+              - title: Mohamed Reda
+                url: https://www.youtube.com/watch?v=EiqLJ_3ynTw
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=E2pHVyyHBA0
+          English:
+            "Design Patterns Introduction":
+              - title: Web Dev Simplified
+                url: https://www.youtube.com/watch?v=BWprw8UHIzA
+            "Creational Design Patterns: Factory":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=EcFVTgRHJLM
+              - title: DevSage
+                url: https://www.youtube.com/watch?v=kuirGzhGhyw
+            "Creational Design Patterns: Abstract Factory":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=v-GiuMmsXj4
+            "Creational Design Patterns: Singleton":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=hUE_j6q0LTQ
+              - title: DevSage
+                url: https://www.youtube.com/watch?v=JKNjfDCNPa4
+              - title: Web Dev Simplified
+                url: https://www.youtube.com/watch?v=sJ-c3BA-Ypo
+            "Creational Design Patterns: Builder":
+              - title: Web Dev Simplified
+                url: https://www.youtube.com/watch?v=M7Xi1yO_s8E
+            "Creational Design Patterns: Prototype":
+              - title: NeetCodeIO
+                url: https://www.youtube.com/watch?v=tqYQqSLLmEo
+              - title: Code with Ahsan
+                url: https://www.youtube.com/watch?v=cDCz6_QgwE4
       - week: 2
-        topics:
-          - |-
-            Structural Design Patterns
-                                    
-                                        Adapter
-                                        Bridge
-                                        Composite
-                                        Decorator
-                                        Facade
-                                        Flyweight
-                                        Proxy
         resourcesTitle: 🎞️ Resources
-        resources: {}
+        resources:
+          Arabic:
+            "Structural Design Patterns: Adapter":
+              - title: Passionate Coders
+                url: https://www.youtube.com/watch?v=9YNAPv4Uz98
+              - title: Mohamed Reda [5,6]
+                url: https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=c4GlFncNT14
+            "Structural Design Patterns: Bridge":
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=Ol3iNQTxH-8
+            "Structural Design Patterns: Composite":
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=jZgHOd3K-0s
+            "Structural Design Patterns: Decorator":
+              - title: Mohamed Reda
+                url: https://www.youtube.com/watch?v=IxuRirKFSoo
+              - title: Passionate Coders
+                url: https://www.youtube.com/watch?v=jnjhx6_hpa8
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=yCqZiNZUC58
+            "Structural Design Patterns: Facade":
+              - title: Mohamed Reda [7:10]
+                url: https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=5cVBDkKfSmA
+            "Structural Design Patterns: Flyweight":
+              - title: Mohamed Reda
+                url: https://www.youtube.com/watch?v=VP0pL-6q55U
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=oyvSrkpn2vs
+            "Structural Design Patterns: Proxy":
+              - title: Mohamed Abusarea
+                url: https://www.youtube.com/watch?v=yQXrKJ6JjiE
+              - title: Mohamed Reda [1:3]
+                url: https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=ZdQ9-j65rJM
+          English:
+            "Structural Design Patterns: Adapter":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=2PKQtcJjYvc
+              - title: Simply Explained
+                url: https://www.youtube.com/watch?v=beU4i949YXU
+              - title: Code Legends
+                url: https://www.youtube.com/watch?v=YVhFqT15LEg
+            "Structural Design Patterns: Bridge":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=F1YQ7YRjttI
+            "Structural Design Patterns: Composite":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=EWDmWbJ4wRA
+              - title: Choice Specs
+                url: https://www.youtube.com/watch?v=O03_XasKV6I
+            "Structural Design Patterns: Decorator":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=GCraGHx6gso
+              - title: Code Legends
+                url: https://www.youtube.com/watch?v=MeHRlFF1Tfk
+            "Structural Design Patterns: Facade":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=K4FkHVO5iac
+              - title: Web Dev Simplified
+                url: https://www.youtube.com/watch?v=fHPa5xzbpaA
+            "Structural Design Patterns: Flyweight":
+              - title: Advanced C
+                url: https://www.youtube.com/watch?v=6uiofJpT3x0
+            "Structural Design Patterns: Proxy":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=NwaabHqPHeM
+              - title: DevSage
+                url: https://www.youtube.com/watch?v=SFTpSFQNPts
       - week: 3
         topics:
           - |-
@@ -985,7 +1108,49 @@ levels:
                                         Interpreter
                                         Iterator
         resourcesTitle: 🎞️ Resources
-        resources: {}
+        resources:
+          Arabic:
+            "Behavioral Design Patterns: Chain of Responsibility":
+              - title: Passionate Coders
+                url: https://www.youtube.com/watch?v=MGz-yzPZSrw
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=-UQND--CVew
+            "Behavioral Design Patterns: Observer":
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=R-N7YWJSol8
+            "Behavioral Design Patterns: Command":
+              - title: Passionate Coders [10:12]
+                url: https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=jZgHOd3K-0s
+            "Behavioral Design Patterns: Interpreter":
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=zakCZEVGgJU
+            "Behavioral Design Patterns: Iterator":
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=ZZBTSAlhim4
+          English:
+            "Behavioral Design Patterns: Chain of Responsibility":
+              - title: levonog
+                url: https://www.youtube.com/watch?v=CeFxMlQZxyI
+            "Behavioral Design Patterns: Observer":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=_BpmfnqjgzQ
+              - title: DevSage
+                url: https://www.youtube.com/watch?v=45TeJEmcqk8
+            "Behavioral Design Patterns: Command":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=9qA5kw8dcSU
+              - title: Web Dev Simplified
+                url: https://www.youtube.com/watch?v=GQzfF5EMD7o
+            "Behavioral Design Patterns: Interpreter":
+              - title: levonog
+                url: https://www.youtube.com/watch?v=Ia83UqTNApY
+            "Behavioral Design Patterns: Iterator":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=uNTNEfwYXhI
+              - title: DevSage
+                url: https://www.youtube.com/watch?v=c85EStPZR8M
       - week: 4
         topics:
           - |-
