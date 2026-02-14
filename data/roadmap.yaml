@@ -1152,15 +1152,57 @@ levels:
               - title: DevSage
                 url: https://www.youtube.com/watch?v=c85EStPZR8M
       - week: 4
-        topics:
-          - |-
-            Behavioral Design Patterns (2)
-                                    
-                                        Mediator
-                                        Memento
-                                        State
-                                        Strategy
-                                        Template
-                                        Visitor
         resourcesTitle: 🎞️ Resources
-        resources: {}
+        resources:
+          Arabic:
+            "Behavioral Design Patterns: Mediator":
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=TqXouSAPoPg
+            "Behavioral Design Patterns: Memento":
+              - title: Passionate Coders
+                url: https://www.youtube.com/watch?v=4RD8qJ8oDKA
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=5Eg94wCidxQ
+            "Behavioral Design Patterns: State":
+              - title: Passionate Coders
+                url: https://www.youtube.com/watch?v=0-AK2oX2-_g
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=BzQknQ4GI4M
+            "Behavioral Design Patterns: Strategy":
+              - title: Passionate Coders
+                url: https://www.youtube.com/watch?v=MdB6zKDeb44
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=pPGN--Wdyec
+            "Behavioral Design Patterns: Template":
+              - title: Passionate Coders
+                url: https://www.youtube.com/watch?v=Rt9pEAEa0gw
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=r1MOYIyMWyQ
+            "Behavioral Design Patterns: Visitor":
+              - title: DevGeeks Academy
+                url: https://www.youtube.com/watch?v=UqWBlht131g
+          English:
+            "Behavioral Design Patterns: Mediator":
+              - title: DevSage
+                url: https://www.youtube.com/watch?v=ZuhgOu-DGA4
+            "Behavioral Design Patterns: Memento":
+              - title: Derek Banas
+                url: https://www.youtube.com/watch?v=jOnxYT8Iaoo
+            "Behavioral Design Patterns: State":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=N12L5D78MAA
+              - title: Simply Explained
+                url: https://www.youtube.com/watch?v=gMyRtqwxr10
+            "Behavioral Design Patterns: Strategy":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=v9ejT8FO-7I
+              - title: DevSage
+                url: https://www.youtube.com/watch?v=SicL4fYCz8w
+            "Behavioral Design Patterns: Template":
+              - title: Christopher Okhravi
+                url: https://www.youtube.com/watch?v=7ocpwK9uesw
+              - title: Code Legends
+                url: https://www.youtube.com/watch?v=ZpTbpu1cT_g
+            "Behavioral Design Patterns: Visitor":
+              - title: DevSage
+                url: https://www.youtube.com/watch?v=x-Gx0Ym1Di0

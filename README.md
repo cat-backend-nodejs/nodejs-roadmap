@@ -1735,16 +1735,79 @@ _By the end of this level, the learner should learn_
         <tr>
             <th>Week 4</th>
             <td>
-<h5>🎯 Topics</h5>
+<h5>🎞️ Resources</h5>
+<h6>🌏 Arabic</h6>
 <ul>
-  <li>Behavioral Design Patterns (2)
-                        
-                            Mediator
-                            Memento
-                            State
-                            Strategy
-                            Template
-                            Visitor</li>
+  <li>Behavioral Design Patterns: Mediator
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=TqXouSAPoPg">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Memento
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=4RD8qJ8oDKA">Passionate Coders</a></li>
+      <li><a href="https://www.youtube.com/watch?v=5Eg94wCidxQ">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: State
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=0-AK2oX2-_g">Passionate Coders</a></li>
+      <li><a href="https://www.youtube.com/watch?v=BzQknQ4GI4M">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Strategy
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=MdB6zKDeb44">Passionate Coders</a></li>
+      <li><a href="https://www.youtube.com/watch?v=pPGN--Wdyec">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Template
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=Rt9pEAEa0gw">Passionate Coders</a></li>
+      <li><a href="https://www.youtube.com/watch?v=r1MOYIyMWyQ">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Visitor
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=UqWBlht131g">DevGeeks Academy</a></li>
+    </ul>
+  </li>
+</ul>
+<h6>🌏 English</h6>
+<ul>
+  <li>Behavioral Design Patterns: Mediator
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=ZuhgOu-DGA4">DevSage</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Memento
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=jOnxYT8Iaoo">Derek Banas</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: State
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=N12L5D78MAA">Christopher Okhravi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=gMyRtqwxr10">Simply Explained</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Strategy
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=v9ejT8FO-7I">Christopher Okhravi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=SicL4fYCz8w">DevSage</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Template
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=7ocpwK9uesw">Christopher Okhravi</a></li>
+      <li><a href="https://www.youtube.com/watch?v=ZpTbpu1cT_g">Code Legends</a></li>
+    </ul>
+  </li>
+  <li>Behavioral Design Patterns: Visitor
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=x-Gx0Ym1Di0">DevSage</a></li>
+    </ul>
+  </li>
 </ul>
 </td>
         </tr>
