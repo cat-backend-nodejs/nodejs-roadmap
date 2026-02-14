@@ -419,215 +419,215 @@ levels:
             "MVC Project Tutorial: Follow Along and submit your code in the task form":
               - title: Courses 4 Arab (User Management Dashboard)
                 url: https://www.youtube.com/watch?v=6fBgH9nYC_s
+            "Sessions":
+              - title: Emam Academy
+                url: https://www.youtube.com/watch?v=XbpAGY6ZzHY
             "Session-Based Authentication":
               - title: KMR Script [28:31 + 35]
                 url: https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp
+            "Password Security":
+              - title: Programming Advice
+                url: https://www.youtube.com/watch?v=2-w_WFAfir0
+            "`bcrypt` in Node.js":
+              - title: Bassant's Tips
+                url: https://www.youtube.com/watch?v=GB4GPm33CSs
           English:
             "MVC Project Tutorial: Follow Along and submit your code in the task form":
               - title: The Net Ninja (Blog Website)
                 url: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD
               - title: Raddy (User Management Dashboard)
                 url: https://www.youtube.com/watch?v=PAm_QcN6Ffs
+            "Sessions":
+              - title: Anson [12:14]
+                url: https://www.youtube.com/playlist?list=PL_cUvD4qzbkwjmjy-KjbieZ8J9cGwxZpC
+              - title: Zach Gollwitzer
+                url: https://www.youtube.com/watch?v=J1qXK66k1y4
             "Session-Based Authentication":
               - title: The Full Stack Junkie
                 url: https://www.youtube.com/watch?v=TDe7DRYK8vU
+            "Password Security":
+              - title: Studying with Alex
+                url: https://www.youtube.com/watch?v=qgpsIBLvrGY
+            "`bcrypt` in Node.js":
+              - title: Sam Meech-Ward
+                url: https://www.youtube.com/watch?v=AzA_LTDoFqY
         task:
           title: 'Level 2: Week 4 Quiz'
           url: >-
             https://docs.google.com/forms/d/e/1FAIpQLScB2w0fmxhXXSb_S4ueqOZLzZWAgBwi4WVjyRLZGnLh6JJSzA/viewform
       - week: 5
-        topics:
-          - File Uploads
-          - Sessions and Session Stores
-          - Hashing Vs. Encryption
-          - Session-Based Authentication
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: Youssef Abbas (File Upload)
+            "Express's Multer":
+              - title: Youssef Abbas
                 url: https://www.youtube.com/watch?v=j9ibqDLmKZs
-              - title: Khalid Elshafie (File Upload)
+              - title: Khalid Elshafie
                 url: https://www.youtube.com/watch?v=rblbMjrcVqg
-              - title: Emam Academy (Sessions)
-                url: https://www.youtube.com/watch?v=XbpAGY6ZzHY
-              - title: Ethraa Barmajy (Password Security)
-                url: https://www.youtube.com/playlist?list=PLy2vwCvAbFKSmjvT1NsUEu6N58kf8qGFt
-              - title: Index Academy (Bcrypt in Node.js)
-                url: https://www.youtube.com/watch?v=YYHtHbJnVEU
-              - title: KMR Script (Session-Based Authentication)
-                url: https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp
+            "Build your own Pinterest with Password Auth and Image Uploads":
           English:
-            General:
-              - title: PedroTech (File Uploads)
+            "urlencoded vs multipart Form Data":
+              - title: TechFunnel
+                url: https://www.youtube.com/watch?v=DHF-pH4hitc
+            "Express's Multer":
+              - title: PedroTech
                 url: https://www.youtube.com/watch?v=wIOpe8S2Mk8
-              - title: WittCode (Sessions)
-                url: https://www.youtube.com/watch?v=IPAvfcodcI8
-              - title: Anson the Developer (Session Stores)
-                url: https://www.youtube.com/watch?v=T9MsNRI5T-A
-              - title: NPM Documentations (Session Stores)
-                url: https://www.npmjs.com/package/express-session#compatible-session-stores
-              - title: Studying With Alex (Password Security)
-                url: https://www.youtube.com/watch?v=qgpsIBLvrGY
-              - title: Sam Meech-Ward (Bcrypt in Node.js)
-                url: https://www.youtube.com/watch?v=AzA_LTDoFqY
-              - title: The Full Stack Junkie (Session-Based Authentication)
-                url: https://www.youtube.com/watch?v=TDe7DRYK8vU
+            "Build your own Pinterest with Password Auth and Image Uploads":
         task:
           title: 'Level 2: Week 5 Quiz'
           url: >-
             https://docs.google.com/forms/d/e/1FAIpQLSeu9FpCF7HXDz7WYbBYbeTrXZp7ETZrhhl8RV2MqJ0tdPms1Q/viewform
       - week: 6
-        topics:
-          - Server-Side Rendering VS. Client-Side Rendering
-          - REST APIs
-          - JSON Web Tokens
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: Amr Mohamed (CSR & SSR)
+            "Web Rendering: Server-Side vs Client-Side":
+              - title: Amr Mohamed
                 url: https://www.youtube.com/watch?v=zAJs2T1xAFE
-              - title: Tarmeez (Intro to APIs)
+            "Intro to REST APIs":
+              - title: Tarmeez
                 url: https://www.youtube.com/watch?v=rq7DvjN1Gco
-              - title: Tarmeez (JSON Recap)
+            "JSON Recap":
+              - title: Tarmeez
                 url: https://www.youtube.com/watch?v=4dz4qDMwmCM
-              - title: pragma (Sessions vs. Tokens)
-                url: https://www.youtube.com/watch?v=aanOygFD4Fo
-              - title: Codezone (REST APIs & JWT Authentication)
+            "REST in Action with Express":
+              - title: Codezone [5:7]
                 url: https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2
-              - title: KMR Script (REST APIs)
-                url: https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp
-              - title: Eslam Mahmoud (JWT)
-                url: https://www.youtube.com/watch?v=RcqyAVnMaeQ
+              - title: Index Academy
+                url: https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i
           English:
-            General:
-              - title: Smoljames (SSR & CSR)
+            "Web Rendering: Server-Side vs Client-Side":
+              - title: Smoljames
                 url: https://www.youtube.com/watch?v=ObrSuDYMl1s
-              - title: Academind (REST APIs explained)
+            "Intro to REST APIs":
+              - title: Academind
                 url: https://www.youtube.com/watch?v=0oXYLzuucwE
-              - title: Web Dev Simplified (JSON Recap)
+            "JSON Recap":
+              - title: Web Dev Simplified
                 url: https://www.youtube.com/watch?v=iiADhChRriM
-              - title: Web Dev Simplified (REST APIs with Express)
+            "REST in Action with Express":
+              - title: Web Dev Simplified
                 url: https://www.youtube.com/watch?v=fgTGADljAeg
-              - title: Web Dev Simplified (JWT Part 1)
-                url: https://www.youtube.com/watch?v=7Q17ubqLfaM
-              - title: Web Dev Simplified (JWT Part 2)
-                url: https://www.youtube.com/watch?v=mbsmsi7l3r4
-              - title: Code Realm (Sessions vs. Tokens)
-                url: https://www.youtube.com/watch?v=2PPSXonhIck
-              - title: Code With Antony (Apply REST with TypeScript)
-                url: https://www.youtube.com/watch?v=b8ZUb_Okxro
         task:
           title: 'Level 2: Week 6 Quiz'
           url: >-
             https://docs.google.com/forms/d/e/1FAIpQLScKXITqpQsNkn3vJqAOPR1fvBa_ZqpRrSWh133LvP4apftEMg/viewform
       - week: 7
-        topics:
-          - Advanced MongoDB Queries
-          - Enhancing API Functionality
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
+            "Session-Based vs. Token-Based Authentication":
+              - title: pragma
+                url: https://www.youtube.com/watch?v=aanOygFD4Fo
+            "JWT Authentication":
               - title: Index Academy
+                url: https://www.youtube.com/playlist?list=PLDQ11FgmbqQO6KEhqLzT_USha4ZysXY2C
+              - title: CodeZone [8:9]
+                url: https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2
+            "API Query Features: Filtering, Sorting, Field Limiting and Pagination":
+              - title: Index Academy [70:77]
                 url: https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i
           English:
-            General:
-              - title: procademy
+            "Session-Based vs. Token-Based Authentication":
+              - title: Code Realm
+                url: https://www.youtube.com/watch?v=2PPSXonhIck
+            "JWT Authentication":
+              - title: procademy [102:122]
                 url: https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS
+            "API Query Features: Filtering, Sorting, Field Limiting and Pagination":
+              - title: procademy [74:80]
+                url: https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS
+            "REST API in Action (with Authentication)":
+              - title: TomDoesTech
+                url: https://www.youtube.com/watch?v=BWUi6BS9T5Y
+              - title: Code with Antonio
+                url: https://www.youtube.com/watch?v=b8ZUb_Okxro
+              - title: Coding Garden
+                url: https://www.youtube.com/watch?v=vDLE8hqzA8I
+              - title: Code on Demand
+                url: https://www.youtube.com/playlist?list=PLzb46hGUzitBp584kLyn6l3i6yC-rXlmN
         task:
           title: 'Level 2: Week 7 Quiz'
           url: >-
             https://docs.google.com/forms/d/e/1FAIpQLSdVRoKLg390eGt-J74mE9yWrHqnEbqcgBTjekI68ox7qaEXlQ/viewform
       - week: 8
-        topics: []
-        resourcesTitle: 🎞️ Tutorials
+        resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: Codezone
-                url: https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2
-              - title: Emam Academy
-                url: https://www.youtube.com/playlist?list=PLGhZWewM_75ILwl15d0Cn-W_XHpnKbNHL
+            "OAuth 2.0 Workflow":
+              - title: Almadrasa
+                url: https://www.youtube.com/watch?v=86qNjL7I00w
+            "Passport.js Local Strategy":
+              - title: Code With Zeyad
+                url: https://www.youtube.com/watch?v=GsqkTEvnC8s
+            "Passport.js OAuth2.0 Strategies":
+              - title: Algorithm Academy
+                url: https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ6BVx8IuvTdrxiRQhDHmPK
+            "API Security":
+              - title: Ahmed Elemam
+                url: https://www.youtube.com/watch?v=a0g8rI4j4qc
+            "Rate Limiting":
+              - title: Youssef Abbas
+                url: https://www.youtube.com/watch?v=g2GUBz-Trls
           English:
-            General:
-              - title: Academind
-                url: https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
-              - title: Course On Demand
-                url: https://www.youtube.com/playlist?list=PLzb46hGUzitBp584kLyn6l3i6yC-rXlmN
+            "OAuth 2.0 Workflow":
+              - title: Java Brains
+                url: https://www.youtube.com/watch?v=t4-416mg6iU
+              - title: InterSystems Learning Services
+                url: https://www.youtube.com/watch?v=CPbvxxslDTU
+            "Google OAuth 2.0":
               - title: TomDoesTech
-                url: https://www.youtube.com/watch?v=BWUi6BS9T5Y
+                url: https://www.youtube.com/watch?v=Qt3KJZ2kQk0
+              - title: Coding Shiksha
+                url: https://www.youtube.com/watch?v=x9KnjuVCB_M
+            "Passport.js Local Strategy":
+              - title: Anson
+                url: https://www.youtube.com/watch?v=_lZUq39FGv0
+            "Passport.js OAuth2.0 Strategies":
+              - title: Anson
+                url: https://www.youtube.com/watch?v=lOSs7jHO7QU
+            "API Security":
+              - title: freeCodeCamp
+                url: https://www.youtube.com/watch?v=YYe0FdfdgDU
+              - title: Software Developer Diaries
+                url: https://www.youtube.com/watch?v=DYme1m4RiwI
+            "Rate Limiting":
+              - title: Raddy
+                url: https://www.youtube.com/watch?v=VZZLiVccwKk
         task:
           title: 'Level 2: Week 8 Quiz'
           url: >-
-            https://docs.google.com/forms/d/e/1FAIpQLSeuWqEIiJOAyf2wNBBA4uHzphn-ddq4YxpU4QgjZru6G6qVmw/viewform
-      - week: 9
-        topics:
-          - OAuth2.0 and Third Party Authentication
-          - Authentication using passport.js
-          - API Security
-          - Rate Limiting and Controlling Traffic
-        resourcesTitle: 🎞️ Resources
-        resources:
-          Arabic:
-            General:
-              - title: Almadrasa (OAuth 2.0 Intro & Workflow)
-                url: https://www.youtube.com/watch?v=86qNjL7I00w
-              - title: Algorithm Academy (Local, OAuth2.0 Strategies)
-                url: https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ6BVx8IuvTdrxiRQhDHmPK
-              - title: Code With Zeyad (Local Strategy)
-                url: https://www.youtube.com/watch?v=GsqkTEvnC8s
-              - title: Ahmed Elemam (API Security)
-                url: https://www.youtube.com/watch?v=a0g8rI4j4qc
-              - title: Youssef Abbas (Rate Limiting)
-                url: https://www.youtube.com/watch?v=g2GUBz-Trls
-          English:
-            General:
-              - title: Java Brains (OAuth 2.0 Intro)
-                url: https://www.youtube.com/watch?v=t4-416mg6iU
-              - title: InterSystems Learning Services (OAuth 2.0 Workflow)
-                url: https://www.youtube.com/watch?v=CPbvxxslDTU
-              - title: Zach Gollwitzer (Local, JWT Strategy)
-                url: https://www.youtube.com/playlist?list=PLYQSCk-qyTW2ewJ05f_GKHtTIzjynDgjK
-              - title: Akilesh Rao (Google, JWT Strategy)
-                url: https://www.youtube.com/playlist?list=PL62km_yqC3ZHlvkKVmR2f3W6SEzh8pRIf
-              - title: The Net Ninja (OAuth2.0 Strategies)
-                url: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x
-              - title: freeCodeCamp (API Security)
-                url: https://www.youtube.com/watch?v=YYe0FdfdgDU
-              - title: Raddy (Rate Limiting)
-                url: https://www.youtube.com/watch?v=VZZLiVccwKk
-        task:
-          title: 'Level 2: Week 9 Quiz'
-          url: >-
             https://docs.google.com/forms/d/e/1FAIpQLSe-K-FvNw70nHSq6BGWGPir8lbvrloSEfIaC0eNX9S3FyNlfg/viewform
-      - week: 10
-        topics:
-          - SMTP
-          - Sending Emails in Node.js
-          - Sending SMS Messages with Twilio API
+      - week: 9
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: DeepWave Technology (SMTP)
+            "SMTP Protocol":
+              - title: DeepWave Technology
                 url: https://www.youtube.com/watch?v=W3xCWR5WjvY
-              - title: Youssef Abbas (Sending Emails)
+            "Sending Emails with `nodemailer`":
+              - title: Youssef Abbas
                 url: https://www.youtube.com/watch?v=AGErsRWd-6Y
           English:
-            General:
-              - title: PowerCert Animated Videos (SMTP)
+            "SMTP Protocol":
+              - title: PowerCert Animated Videos
                 url: https://www.youtube.com/watch?v=PJo5yOtu7o8
-              - title: Traversy Media (Sending Emails)
+            "Sending Emails with `nodemailer`":
+              - title: Traversy Media
                 url: https://www.youtube.com/watch?v=nF9g1825mwk
-              - title: AyyazTech (Sending SMS)
+            "Third-Party Email Services":
+              - title: Resend
+                url: https://resend.com/
+              - title: SendGrid
+                url: https://sendgrid.com/
+            "Sending SMS Messages with Twilio API":
+              - title: AyyazTech
                 url: https://www.youtube.com/watch?v=vs4in-UFdX0
         task:
           title: 'Level 2: Week 10 Quiz'
           url: >-
             https://docs.google.com/forms/d/e/1FAIpQLSe8zLC2OETXnjB6qrwK9MmQpJkPl1oiQEk7PNGvjwalv3Oj_g/viewform
-      - week: 11
+      - week: 10
         topics:
           - Unit Testing in JavaScript
           - Unit Testing in Express Apps
@@ -636,30 +636,34 @@ levels:
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: Tresmerge (Unit Testing FULL)
+            "Software Testing":
+              - title: Tresmerge
                 url: https://www.youtube.com/playlist?list=PLzNfs-3kBUJllCa8_6pLYDMnIlg6Lfvu4
-              - title: Elzero Web School (Unit Testing in JavaScript)
-                url: https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O
-              - title: Mohamed Essa (Swagger.io API Documentation)
-                url: https://www.youtube.com/playlist?list=PLMYF6NkLrdN_CelwcY-B9PPi4UsXmU8Ka
-              - title: Takhareef Mobarmeg (Swagger Integration in Express)
-                url: https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS
-              - title: Mahmoud Abdullah (Deployment on Cyclic)
+            "OpenAPI & Swagger.io API Documentation":
+              - title: Ali Hassan
+                url: https://www.youtube.com/watch?v=dHUkSDk5Z4o
+            "Deployment on Cyclic":
+              - title: Mahmoud Abdullah
                 url: https://www.youtube.com/watch?v=0etHXuy_vbk
           English:
-            General:
-              - title: Web Dev Simplified (Unit Testing in JavaScript)
-                url: https://www.youtube.com/watch?v=FgnxcUQ5vho
-              - title: TomDoesTech (Unit Testing in Express - TypeScript)
+            "Jest Testing Framework":
+              - title: freeCodeCamp
+                url: https://www.youtube.com/watch?v=IPiUDhwnZxA
+            "Vitest Testing Framework":
+              - title: Net Ninja
+                url: https://www.youtube.com/playlist?list=PL4cUxeGkcC9iyuClsf48SSgsJPBStHo7F
+            "API Testing":
+              - title: TomDoesTech (TypeScript)
                 url: https://www.youtube.com/watch?v=r5L1XRZaCR0
-              - title: Anson the Developer (Unit Testing in Express - JavaScript)
+              - title: Anson (JavaScript)
                 url: https://www.youtube.com/watch?v=t5sFkGk8GY8
-              - title: Braintemple Tutorial TV (Swagger.io API Documentation)
-                url: https://www.youtube.com/playlist?list=PLnBvgoOXZNCOiV54qjDOPA9R7DIDazxBA
-              - title: Skills With Arif (Swagger Integration with Express)
-                url: https://www.youtube.com/watch?v=dhMlXoTD3mQ
-              - title: Rahat WebDev (Deployment on Railway)
+            "OpenAPI & Swagger.io API Documentation":
+              - title: TomDoesTech
+                url: https://www.youtube.com/watch?v=5aryMKiBEKY
+            "Deployment on Railway":
+              - title: Infinite Improbability Drive
+                url: https://www.youtube.com/watch?v=O_dK3dwlDoM
+              - title: Rahat WebDev
                 url: https://www.youtube.com/watch?v=4Ga4c_amvY8
         task:
           title: 'Level 2: Week 11 Quiz'
@@ -674,33 +678,93 @@ levels:
   - id: 3
     title: Level 3
     objectives:
-      - 'Database**: SQL Syntax, DB-APIs, ORMs, Migrations'
-      - 'Modern APIs**: `GraphQL'
-      - 'Real Time Connections**: Using `socket.io` and `WebRTC'
-      - 'Caching**: Caching Techniques, Redis for server-side caching'
-      - 'Task Scheduling**: `node-schedule'
-      - 'Browser Automation**: E2E Testing and Web Scraping using `puppeteer'
+      - '**Database**: SQL Syntax, DB-APIs, ORMs, Migrations'
+      - '**Modern APIs**: `GraphQL`'
+      - '**Real Time Connections**: Using `socket.io` and `WebRTC`'
+      - '**Caching**: Caching Techniques, Redis for server-side caching'
+      - '**Task Scheduling**: `node-schedule`'
+      - '**Browser Automation**: E2E Testing and Web Scraping using `puppeteer`'
     weeks:
       - week: 1
-        topics:
-          - SQL Syntax
         resourcesTitle: 🎞️ Resources
-        resources: {}
+        resources:
+          Arabic:
+            "SQL Queries (DDL/DML)":
+              - title: Mohamed El Desouki
+                url: https://www.youtube.com/playlist?list=PL1DUmTEdeA6L6oDLTveTt4Z7E5qEfFluE
+            "SQL Joins":
+              - title: Mohamed El Desouki
+                url: https://www.youtube.com/watch?v=58Lsm9ly7cU
+              - title: Tech Vault [6]
+                url: https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx
+            "SQL Aggregations":
+              - title: Mohamed El Desouki
+                url: https://www.youtube.com/watch?v=8aNhhMi2ce4
+          English:
+            "SQL Queries (DDL/DML)":
+              - title: CS50 [Lecture 2]
+                url: https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0
+            "SQL Joins":
+              - title: techTFQ
+                url: https://www.youtube.com/watch?v=0OQJDd3QqQM
+            "SQL Aggregations":
+              - title: Michael Fudge
+                url: https://www.youtube.com/watch?v=mX61Ww3wRgU
         task:
-          title: Part 1
-          url: >-
-            https://docs.google.com/forms/d/e/1FAIpQLSfY5jvtRwsgMa5MHm7iLYr0Uiy9pai-btSBXLwSvZaPiftLGA/viewform
+          title: "SQL Fundamentals Task"
+          url: https://github.com/saifsweelam/databases-intro-roadmap/tree/main/week-3
       - week: 2
-        topics:
-          - Relational Database Design
-          - SQL inside Node.js
         resourcesTitle: 🎞️ Resources
-        resources: {}
+        resources:
+          Arabic:
+            "SQL Subqueries":
+              - title: Tech Vault [8]
+                url: https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx
+            "Database Normalization":
+              - title: Tech Vault [5]
+                url: https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx
+              - title: Metigator
+                url: https://www.youtube.com/watch?v=0Jps8KJSjy4
+            "SQL Views":
+              - title: Tech Vault [9, 10]
+                url: https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx
+          English:
+            "SQL Subqueries":
+              - title: techTFQ
+                url: https://www.youtube.com/watch?v=nJIEIzF7tDw
+            "SQL Views":
+              - title: CS50 [Lecture 4]
+                url: https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0
         task:
-          title: 'Level 3: Week 2 Quiz'
-          url: >-
-            https://docs.google.com/forms/d/e/1FAIpQLScr65VkChXh3OyNcwSk7IGV-m7rQQc4jWJJwDla6CKHO-jpPw/viewform
+          title: "Normalization & Views Task"
+          url: https://github.com/saifsweelam/databases-intro-roadmap/tree/main/week-4
       - week: 3
+        topics:
+          - Database Indexing
+          - Database Transactions
+          - Concurrency & Locks
+        resourcesTitle: 🎞️ Resources
+        resources:
+          Arabic:
+            "Database Indexing":
+              - title: Tech Vault [5-8]
+                url: https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF
+              - title: Metigator
+                url: https://www.youtube.com/watch?v=F3jRzYhjW7k
+            "Database Transactions":
+              - title: Tech Vault [17-18]
+                url: https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF
+              - title: Mohamed El Desouki [2-16]
+                url: https://www.youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5
+            "Concurrency & Locks":
+              - title: Tech Vault [19-22]
+                url: https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF
+              - title: Mohamed El Desouki [17-30]
+                url: https://www.youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5
+        task:
+          title: "Internals Task"
+          url: https://github.com/saifsweelam/databases-intro-roadmap/tree/main/week-5
+      - week: 4
         topics:
           - What are ORMs
           - Prisma/Sequelize/typeORM
@@ -708,97 +772,108 @@ levels:
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: Algorithm Academy (Sequelize)
-                url: https://www.youtube.com/playlist?list=PLfDx4cQoUNObHX28K6FS38LkB2CPLGGfx
-              - title: pragma (Database Migrations)
+            "Concept: Migrating Databases":
+              - title: pragma
                 url: https://www.youtube.com/watch?v=TmVRKDoMulE
+            "ORM: Prisma\n\n(Note that Prisma changed since v7 update so you will need to check the official documentation for the differences)":
+              - title: Simple Arab Code
+                url: https://www.youtube.com/watch?v=uRPLhqR_d5I
+              - title: Ali Sleem
+                url: https://www.youtube.com/watch?v=KoFgG7Rjhbc
+            "ORM: Sequelize":
+              - title: Algorithm Academy
+                url: https://www.youtube.com/playlist?list=PLfDx4cQoUNObHX28K6FS38LkB2CPLGGfx
           English:
-            Prisma:
-              - title: Web Dev Simplified (Prisma)
+            "Concept: Migrating Databases":
+              - title: Software Developer Diaries
+                url: https://www.youtube.com/watch?v=mMsZPZKNc4g
+            "ORM: Prisma\n\n(Note that Prisma changed since v7 update so you will need to check the official documentation for the differences)":
+              - title: Web Dev Simplified
                 url: https://www.youtube.com/watch?v=RebA5J-rlwg
-              - title: fromDev2Dev (Prisma Migrations)
-                url: https://www.youtube.com/playlist?list=PLf42-srNPbi1iwPI4pRMLIcbqW-lF5R9T
-              - title: Prisma Documentations (Prisma Migrations)
-                url: https://www.prisma.io/docs/concepts/components/prisma-migrate
-            Sequelize:
-              - title: WittCode (Sequelize)
+            "ORM: Drizzle":
+              - title: Web Dev Simplified
+                url: https://www.youtube.com/watch?v=7-NZ0MlPpJA
+            "ORM: Sequelize":
+              - title: WittCode
                 url: https://www.youtube.com/playlist?list=PLkqiWyX-_Lov8qmMOVn4SEQwr9yOjNn3f
               - title: Alex Rusin (Sequelize Migrations)
                 url: https://www.youtube.com/watch?v=zA_HkejB-0s
               - title: Sequelize Documentations (Sequelize Migrations)
                 url: https://sequelize.org/docs/v6/other-topics/migrations/
-            TypeORM:
-              - title: CoderOne (typeORM)
+            "ORM: TypeORM":
+              - title: CoderOne
                 url: https://www.youtube.com/watch?v=Reb7ISQZCvA
-              - title: Laith Academy (typeORM)
+              - title: Laith Academy
                 url: https://www.youtube.com/watch?v=JaTbzPcyiOE
-              - title: Ben Awad (typeORM Migrations)
-                url: https://www.youtube.com/watch?v=JfIvPDPUFo4
-            General:
-              - title: Ben Awad (How to choose an ORM)
-                url: https://www.youtube.com/watch?v=3Pxj-4IrOcs
-              - title: PedroTech (How to choose an ORM)
-                url: https://www.youtube.com/watch?v=8WoeGcJ_nNM
-      - week: 4
-        topics:
-          - Websocket and Socket.io
-          - Streaming with WebRTC
+      - phase: Mid Project
+        topics: []
+        resources: {}
+      - week: 5
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: Codezone (Socket.io)
+            "Intro to Websockets":
+              - title: Reach Star
+                url: https://www.youtube.com/watch?v=qMTCN-eb2Xs
+            "Websocket via `socket.io`":
+              - title: Codezone
                 url: https://www.youtube.com/watch?v=IUfCXmQwm1w
-              - title: KMR Script (Socket.io)
+              - title: KMR Script [48:51]
                 url: https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp
-              - title: Smart Code (Socket.io)
+              - title: Smart Code
                 url: https://www.youtube.com/watch?v=XrCUM6vInH4
-              - title: KMR Script (Video & Audio Streaming)
+            "WebRTC & Peer-to-Peer Connections":
+              - title: KMR Script
                 url: https://www.youtube.com/watch?v=1cHC92DN-Zo
           English:
-            General:
-              - title: Dave Gray (Socket.io)
+            "Websocket via `ws`":
+              - title: JavaScript Mastery
+                url: https://www.youtube.com/watch?v=pbOXOY78dNA
+            "Websocket via `socket.io`":
+              - title: Good Morning Developers
+                url: https://www.youtube.com/watch?v=GdYVTWujYD8
+              - title: Dave Gray
                 url: https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NOkbTDxKi7grs_oxJhLu07
-              - title: Web Dev Simplified (Socket.io)
-                url: https://www.youtube.com/watch?v=ZKEqqIO7n-k
-              - title: Web Dev Simplified (Video & Audio Streaming)
+            "WebRTC & Peer-to-Peer Connections":
+              - title: Web Dev Simplified
                 url: https://www.youtube.com/watch?v=DvlyzDZDEq4
-      - week: 5
-        topics:
-          - Creating a Chat Application
+      - week: 6
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
-              - title: KMR Script
+            "Project: Building a Chat App with `socket.io`":
+              - title: KMR Script [52:63]
                 url: https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp
           English:
-            General:
+            "Project: Building a Chat App with `socket.io`":
               - title: Mafia Codes
                 url: https://www.youtube.com/playlist?list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No
               - title: Coding with Dawid
                 url: https://www.youtube.com/watch?v=mYy-d6BtqmU
+              - title: CodeOde
+                url: https://www.youtube.com/watch?v=45Z-xBRHuRo
               - title: Traversy Media
                 url: https://www.youtube.com/watch?v=jD7FnbI76Hg
-      - week: 6
+      - week: 7
         topics:
           - Browser Automation & Web Scraping using puppeteer
         resourcesTitle: 🎞️ Resources
         resources:
           Arabic:
-            General:
+            "Browser Automation & Web Scraping using puppeteer":
               - title: Tresmerge
                 url: https://www.youtube.com/watch?v=gh7TmUcku8M
               - title: aosus.org
                 url: https://discourse.aosus.org/t/topic/2518
           English:
-            General:
+            "Browser Automation & Web Scraping using puppeteer":
+              - title: Michael Kitas
+                url: https://www.youtube.com/playlist?list=PLuJJZ-W1NwdqgvE0D-1SMS7EpWIC5cKqu
               - title: Traversy Media
                 url: https://www.youtube.com/watch?v=S67gyqnYHmI
               - title: Get __it Done!
                 url: https://www.youtube.com/playlist?list=PLRmEk9smitaXljDN2CjwZ96o4Aj87iuC5
-      - week: 7
+      - week: 8
         topics:
           - Payment Gateways Integration
         resourcesTitle: 🎞️ Resources
@@ -815,7 +890,7 @@ levels:
                 url: https://www.youtube.com/watch?v=mI_-1tbIXQI
               - title: Web Dev Simplified (PayPal Integration)
                 url: https://www.youtube.com/watch?v=DNM9FdFrI1k
-      - week: 8
+      - week: 9
         topics:
           - GraphQL
         resourcesTitle: 🎞️ Resources
@@ -836,7 +911,7 @@ levels:
                 url: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y
               - title: Web Dev Simplified
                 url: https://www.youtube.com/watch?v=ZQL7tL2S0oQ
-      - week: 9
+      - week: 10
         topics:
           - Caching with Redis
           - Task Scheduling
@@ -860,9 +935,6 @@ levels:
                 url: https://www.youtube.com/watch?v=StkFajPnd7w
               - title: OpenJavaScript (Using node-schedule)
                 url: https://www.youtube.com/watch?v=ZG0Fl5Ejq68
-      - phase: Mid Project
-        topics: []
-        resources: {}
       - phase: Final Project
         topics: []
         resources: {}

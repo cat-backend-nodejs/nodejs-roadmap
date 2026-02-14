@@ -667,9 +667,24 @@ _By the end of this level, the learner should learn_
       <li><a href="https://www.youtube.com/watch?v=6fBgH9nYC_s">Courses 4 Arab (User Management Dashboard)</a></li>
     </ul>
   </li>
+  <li>Sessions
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=XbpAGY6ZzHY">Emam Academy</a></li>
+    </ul>
+  </li>
   <li>Session-Based Authentication
     <ul>
       <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script [28:31 + 35]</a></li>
+    </ul>
+  </li>
+  <li>Password Security
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=2-w_WFAfir0">Programming Advice</a></li>
+    </ul>
+  </li>
+  <li>`bcrypt` in Node.js
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=GB4GPm33CSs">Bassant's Tips</a></li>
     </ul>
   </li>
 </ul>
@@ -681,9 +696,25 @@ _By the end of this level, the learner should learn_
       <li><a href="https://www.youtube.com/watch?v=PAm_QcN6Ffs">Raddy (User Management Dashboard)</a></li>
     </ul>
   </li>
+  <li>Sessions
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PL_cUvD4qzbkwjmjy-KjbieZ8J9cGwxZpC">Anson [12:14]</a></li>
+      <li><a href="https://www.youtube.com/watch?v=J1qXK66k1y4">Zach Gollwitzer</a></li>
+    </ul>
+  </li>
   <li>Session-Based Authentication
     <ul>
       <li><a href="https://www.youtube.com/watch?v=TDe7DRYK8vU">The Full Stack Junkie</a></li>
+    </ul>
+  </li>
+  <li>Password Security
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=qgpsIBLvrGY">Studying with Alex</a></li>
+    </ul>
+  </li>
+  <li>`bcrypt` in Node.js
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=AzA_LTDoFqY">Sam Meech-Ward</a></li>
     </ul>
   </li>
 </ul>
@@ -697,29 +728,28 @@ _By the end of this level, the learner should learn_
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>Express's Multer
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=j9ibqDLmKZs">Youssef Abbas (File Upload)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=rblbMjrcVqg">Khalid Elshafie (File Upload)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=XbpAGY6ZzHY">Emam Academy (Sessions)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLy2vwCvAbFKSmjvT1NsUEu6N58kf8qGFt">Ethraa Barmajy (Password Security)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=YYHtHbJnVEU">Index Academy (Bcrypt in Node.js)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (Session-Based Authentication)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=j9ibqDLmKZs">Youssef Abbas</a></li>
+      <li><a href="https://www.youtube.com/watch?v=rblbMjrcVqg">Khalid Elshafie</a></li>
     </ul>
+  </li>
+  <li>Build your own Pinterest with Password Auth and Image Uploads
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>urlencoded vs multipart Form Data
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=wIOpe8S2Mk8">PedroTech (File Uploads)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=IPAvfcodcI8">WittCode (Sessions)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=T9MsNRI5T-A">Anson the Developer (Session Stores)</a></li>
-      <li><a href="https://www.npmjs.com/package/express-session#compatible-session-stores">NPM Documentations (Session Stores)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=qgpsIBLvrGY">Studying With Alex (Password Security)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=AzA_LTDoFqY">Sam Meech-Ward (Bcrypt in Node.js)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=TDe7DRYK8vU">The Full Stack Junkie (Session-Based Authentication)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=DHF-pH4hitc">TechFunnel</a></li>
     </ul>
+  </li>
+  <li>Express's Multer
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=wIOpe8S2Mk8">PedroTech</a></li>
+    </ul>
+  </li>
+  <li>Build your own Pinterest with Password Auth and Image Uploads
   </li>
 </ul>
 <h5>📃 Task</h5>
@@ -732,30 +762,48 @@ _By the end of this level, the learner should learn_
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>Web Rendering: Server-Side vs Client-Side
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=zAJs2T1xAFE">Amr Mohamed (CSR &amp; SSR)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=rq7DvjN1Gco">Tarmeez (Intro to APIs)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=4dz4qDMwmCM">Tarmeez (JSON Recap)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=aanOygFD4Fo">pragma (Sessions vs. Tokens)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2">Codezone (REST APIs &amp; JWT Authentication)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (REST APIs)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=RcqyAVnMaeQ">Eslam Mahmoud (JWT)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=zAJs2T1xAFE">Amr Mohamed</a></li>
+    </ul>
+  </li>
+  <li>Intro to REST APIs
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=rq7DvjN1Gco">Tarmeez</a></li>
+    </ul>
+  </li>
+  <li>JSON Recap
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=4dz4qDMwmCM">Tarmeez</a></li>
+    </ul>
+  </li>
+  <li>REST in Action with Express
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2">Codezone [5:7]</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i">Index Academy</a></li>
     </ul>
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>Web Rendering: Server-Side vs Client-Side
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=ObrSuDYMl1s">Smoljames (SSR &amp; CSR)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=0oXYLzuucwE">Academind (REST APIs explained)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=iiADhChRriM">Web Dev Simplified (JSON Recap)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=fgTGADljAeg">Web Dev Simplified (REST APIs with Express)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=7Q17ubqLfaM">Web Dev Simplified (JWT Part 1)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=mbsmsi7l3r4">Web Dev Simplified (JWT Part 2)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=2PPSXonhIck">Code Realm (Sessions vs. Tokens)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=b8ZUb_Okxro">Code With Antony (Apply REST with TypeScript)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=ObrSuDYMl1s">Smoljames</a></li>
+    </ul>
+  </li>
+  <li>Intro to REST APIs
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=0oXYLzuucwE">Academind</a></li>
+    </ul>
+  </li>
+  <li>JSON Recap
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=iiADhChRriM">Web Dev Simplified</a></li>
+    </ul>
+  </li>
+  <li>REST in Action with Express
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=fgTGADljAeg">Web Dev Simplified</a></li>
     </ul>
   </li>
 </ul>
@@ -769,17 +817,46 @@ _By the end of this level, the learner should learn_
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>Session-Based vs. Token-Based Authentication
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i">Index Academy</a></li>
+      <li><a href="https://www.youtube.com/watch?v=aanOygFD4Fo">pragma</a></li>
+    </ul>
+  </li>
+  <li>JWT Authentication
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLDQ11FgmbqQO6KEhqLzT_USha4ZysXY2C">Index Academy</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2">CodeZone [8:9]</a></li>
+    </ul>
+  </li>
+  <li>API Query Features: Filtering, Sorting, Field Limiting and Pagination
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i">Index Academy [70:77]</a></li>
     </ul>
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>Session-Based vs. Token-Based Authentication
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS">procademy</a></li>
+      <li><a href="https://www.youtube.com/watch?v=2PPSXonhIck">Code Realm</a></li>
+    </ul>
+  </li>
+  <li>JWT Authentication
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS">procademy [102:122]</a></li>
+    </ul>
+  </li>
+  <li>API Query Features: Filtering, Sorting, Field Limiting and Pagination
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS">procademy [74:80]</a></li>
+    </ul>
+  </li>
+  <li>REST API in Action (with Authentication)
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=BWUi6BS9T5Y">TomDoesTech</a></li>
+      <li><a href="https://www.youtube.com/watch?v=b8ZUb_Okxro">Code with Antonio</a></li>
+      <li><a href="https://www.youtube.com/watch?v=vDLE8hqzA8I">Coding Garden</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLzb46hGUzitBp584kLyn6l3i6yC-rXlmN">Code on Demand</a></li>
     </ul>
   </li>
 </ul>
@@ -790,28 +867,73 @@ _By the end of this level, the learner should learn_
         <tr>
             <th>Week 8</th>
             <td>
-<h5>🎞️ Tutorials</h5>
+<h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>OAuth 2.0 Workflow
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2">Codezone</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLGhZWewM_75ILwl15d0Cn-W_XHpnKbNHL">Emam Academy</a></li>
+      <li><a href="https://www.youtube.com/watch?v=86qNjL7I00w">Almadrasa</a></li>
+    </ul>
+  </li>
+  <li>Passport.js Local Strategy
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=GsqkTEvnC8s">Code With Zeyad</a></li>
+    </ul>
+  </li>
+  <li>Passport.js OAuth2.0 Strategies
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ6BVx8IuvTdrxiRQhDHmPK">Algorithm Academy</a></li>
+    </ul>
+  </li>
+  <li>API Security
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=a0g8rI4j4qc">Ahmed Elemam</a></li>
+    </ul>
+  </li>
+  <li>Rate Limiting
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=g2GUBz-Trls">Youssef Abbas</a></li>
     </ul>
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>OAuth 2.0 Workflow
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q">Academind</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLzb46hGUzitBp584kLyn6l3i6yC-rXlmN">Course On Demand</a></li>
-      <li><a href="https://www.youtube.com/watch?v=BWUi6BS9T5Y">TomDoesTech</a></li>
+      <li><a href="https://www.youtube.com/watch?v=t4-416mg6iU">Java Brains</a></li>
+      <li><a href="https://www.youtube.com/watch?v=CPbvxxslDTU">InterSystems Learning Services</a></li>
+    </ul>
+  </li>
+  <li>Google OAuth 2.0
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=Qt3KJZ2kQk0">TomDoesTech</a></li>
+      <li><a href="https://www.youtube.com/watch?v=x9KnjuVCB_M">Coding Shiksha</a></li>
+    </ul>
+  </li>
+  <li>Passport.js Local Strategy
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=_lZUq39FGv0">Anson</a></li>
+    </ul>
+  </li>
+  <li>Passport.js OAuth2.0 Strategies
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=lOSs7jHO7QU">Anson</a></li>
+    </ul>
+  </li>
+  <li>API Security
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=YYe0FdfdgDU">freeCodeCamp</a></li>
+      <li><a href="https://www.youtube.com/watch?v=DYme1m4RiwI">Software Developer Diaries</a></li>
+    </ul>
+  </li>
+  <li>Rate Limiting
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=VZZLiVccwKk">Raddy</a></li>
     </ul>
   </li>
 </ul>
 <h5>📃 Task</h5>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeuWqEIiJOAyf2wNBBA4uHzphn-ddq4YxpU4QgjZru6G6qVmw/viewform">Level 2: Week 8 Quiz</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSe-K-FvNw70nHSq6BGWGPir8lbvrloSEfIaC0eNX9S3FyNlfg/viewform">Level 2: Week 8 Quiz</a>
 </td>
         </tr>
         <tr>
@@ -820,54 +942,38 @@ _By the end of this level, the learner should learn_
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>SMTP Protocol
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=86qNjL7I00w">Almadrasa (OAuth 2.0 Intro &amp; Workflow)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ6BVx8IuvTdrxiRQhDHmPK">Algorithm Academy (Local, OAuth2.0 Strategies)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=GsqkTEvnC8s">Code With Zeyad (Local Strategy)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=a0g8rI4j4qc">Ahmed Elemam (API Security)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=g2GUBz-Trls">Youssef Abbas (Rate Limiting)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=W3xCWR5WjvY">DeepWave Technology</a></li>
+    </ul>
+  </li>
+  <li>Sending Emails with `nodemailer`
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=AGErsRWd-6Y">Youssef Abbas</a></li>
     </ul>
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>SMTP Protocol
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=t4-416mg6iU">Java Brains (OAuth 2.0 Intro)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=CPbvxxslDTU">InterSystems Learning Services (OAuth 2.0 Workflow)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLYQSCk-qyTW2ewJ05f_GKHtTIzjynDgjK">Zach Gollwitzer (Local, JWT Strategy)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PL62km_yqC3ZHlvkKVmR2f3W6SEzh8pRIf">Akilesh Rao (Google, JWT Strategy)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x">The Net Ninja (OAuth2.0 Strategies)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=YYe0FdfdgDU">freeCodeCamp (API Security)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=VZZLiVccwKk">Raddy (Rate Limiting)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=PJo5yOtu7o8">PowerCert Animated Videos</a></li>
     </ul>
   </li>
-</ul>
-<h5>📃 Task</h5>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSe-K-FvNw70nHSq6BGWGPir8lbvrloSEfIaC0eNX9S3FyNlfg/viewform">Level 2: Week 9 Quiz</a>
-</td>
-        </tr>
-        <tr>
-            <th>Week 10</th>
-            <td>
-<h5>🎞️ Resources</h5>
-<h6>🌏 Arabic</h6>
-<ul>
-  <li>General
+  <li>Sending Emails with `nodemailer`
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=W3xCWR5WjvY">DeepWave Technology (SMTP)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=AGErsRWd-6Y">Youssef Abbas (Sending Emails)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=nF9g1825mwk">Traversy Media</a></li>
     </ul>
   </li>
-</ul>
-<h6>🌏 English</h6>
-<ul>
-  <li>General
+  <li>Third-Party Email Services
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=PJo5yOtu7o8">PowerCert Animated Videos (SMTP)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=nF9g1825mwk">Traversy Media (Sending Emails)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=vs4in-UFdX0">AyyazTech (Sending SMS)</a></li>
+      <li><a href="https://resend.com/">Resend</a></li>
+      <li><a href="https://sendgrid.com/">SendGrid</a></li>
+    </ul>
+  </li>
+  <li>Sending SMS Messages with Twilio API
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=vs4in-UFdX0">AyyazTech</a></li>
     </ul>
   </li>
 </ul>
@@ -876,31 +982,54 @@ _By the end of this level, the learner should learn_
 </td>
         </tr>
         <tr>
-            <th>Week 11</th>
+            <th>Week 10</th>
             <td>
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>Software Testing
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PLzNfs-3kBUJllCa8_6pLYDMnIlg6Lfvu4">Tresmerge (Unit Testing FULL)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O">Elzero Web School (Unit Testing in JavaScript)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN_CelwcY-B9PPi4UsXmU8Ka">Mohamed Essa (Swagger.io API Documentation)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS">Takhareef Mobarmeg (Swagger Integration in Express)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=0etHXuy_vbk">Mahmoud Abdullah (Deployment on Cyclic)</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLzNfs-3kBUJllCa8_6pLYDMnIlg6Lfvu4">Tresmerge</a></li>
+    </ul>
+  </li>
+  <li>OpenAPI &amp; Swagger.io API Documentation
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=dHUkSDk5Z4o">Ali Hassan</a></li>
+    </ul>
+  </li>
+  <li>Deployment on Cyclic
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=0etHXuy_vbk">Mahmoud Abdullah</a></li>
     </ul>
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>Jest Testing Framework
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=FgnxcUQ5vho">Web Dev Simplified (Unit Testing in JavaScript)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=r5L1XRZaCR0">TomDoesTech (Unit Testing in Express - TypeScript)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=t5sFkGk8GY8">Anson the Developer (Unit Testing in Express - JavaScript)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLnBvgoOXZNCOiV54qjDOPA9R7DIDazxBA">Braintemple Tutorial TV (Swagger.io API Documentation)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=dhMlXoTD3mQ">Skills With Arif (Swagger Integration with Express)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=4Ga4c_amvY8">Rahat WebDev (Deployment on Railway)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=IPiUDhwnZxA">freeCodeCamp</a></li>
+    </ul>
+  </li>
+  <li>Vitest Testing Framework
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9iyuClsf48SSgsJPBStHo7F">Net Ninja</a></li>
+    </ul>
+  </li>
+  <li>API Testing
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=r5L1XRZaCR0">TomDoesTech (TypeScript)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=t5sFkGk8GY8">Anson (JavaScript)</a></li>
+    </ul>
+  </li>
+  <li>OpenAPI &amp; Swagger.io API Documentation
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=5aryMKiBEKY">TomDoesTech</a></li>
+    </ul>
+  </li>
+  <li>Deployment on Railway
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=O_dK3dwlDoM">Infinite Improbability Drive</a></li>
+      <li><a href="https://www.youtube.com/watch?v=4Ga4c_amvY8">Rahat WebDev</a></li>
     </ul>
   </li>
 </ul>
@@ -921,12 +1050,12 @@ _By the end of this level, the learner should learn_
 ### Level 3
 #### Objectives
 _By the end of this level, the learner should learn_
-* Database**: SQL Syntax, DB-APIs, ORMs, Migrations
-* Modern APIs**: `GraphQL
-* Real Time Connections**: Using `socket.io` and `WebRTC
-* Caching**: Caching Techniques, Redis for server-side caching
-* Task Scheduling**: `node-schedule
-* Browser Automation**: E2E Testing and Web Scraping using `puppeteer
+* **Database**: SQL Syntax, DB-APIs, ORMs, Migrations
+* **Modern APIs**: `GraphQL`
+* **Real Time Connections**: Using `socket.io` and `WebRTC`
+* **Caching**: Caching Techniques, Redis for server-side caching
+* **Task Scheduling**: `node-schedule`
+* **Browser Automation**: E2E Testing and Web Scraping using `puppeteer`
 
 #### Plan
 <table>
@@ -940,24 +1069,86 @@ _By the end of this level, the learner should learn_
         <tr>
             <th>Week 1</th>
             <td>
-<h5>🎯 Topics</h5>
+<h5>🎞️ Resources</h5>
+<h6>🌏 Arabic</h6>
 <ul>
-  <li>SQL Syntax</li>
+  <li>SQL Queries (DDL/DML)
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PL1DUmTEdeA6L6oDLTveTt4Z7E5qEfFluE">Mohamed El Desouki</a></li>
+    </ul>
+  </li>
+  <li>SQL Joins
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=58Lsm9ly7cU">Mohamed El Desouki</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx">Tech Vault [6]</a></li>
+    </ul>
+  </li>
+  <li>SQL Aggregations
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=8aNhhMi2ce4">Mohamed El Desouki</a></li>
+    </ul>
+  </li>
+</ul>
+<h6>🌏 English</h6>
+<ul>
+  <li>SQL Queries (DDL/DML)
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0">CS50 [Lecture 2]</a></li>
+    </ul>
+  </li>
+  <li>SQL Joins
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=0OQJDd3QqQM">techTFQ</a></li>
+    </ul>
+  </li>
+  <li>SQL Aggregations
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=mX61Ww3wRgU">Michael Fudge</a></li>
+    </ul>
+  </li>
 </ul>
 <h5>📃 Task</h5>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfY5jvtRwsgMa5MHm7iLYr0Uiy9pai-btSBXLwSvZaPiftLGA/viewform">Part 1</a>
+<a href="https://github.com/saifsweelam/databases-intro-roadmap/tree/main/week-3">SQL Fundamentals Task</a>
 </td>
         </tr>
         <tr>
             <th>Week 2</th>
             <td>
-<h5>🎯 Topics</h5>
+<h5>🎞️ Resources</h5>
+<h6>🌏 Arabic</h6>
 <ul>
-  <li>Relational Database Design</li>
-  <li>SQL inside Node.js</li>
+  <li>SQL Subqueries
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx">Tech Vault [8]</a></li>
+    </ul>
+  </li>
+  <li>Database Normalization
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx">Tech Vault [5]</a></li>
+      <li><a href="https://www.youtube.com/watch?v=0Jps8KJSjy4">Metigator</a></li>
+    </ul>
+  </li>
+  <li>SQL Views
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx">Tech Vault [9, 10]</a></li>
+    </ul>
+  </li>
+</ul>
+<h6>🌏 English</h6>
+<ul>
+  <li>SQL Subqueries
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=nJIEIzF7tDw">techTFQ</a></li>
+    </ul>
+  </li>
+  <li>SQL Views
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0">CS50 [Lecture 4]</a></li>
+    </ul>
+  </li>
 </ul>
 <h5>📃 Task</h5>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScr65VkChXh3OyNcwSk7IGV-m7rQQc4jWJJwDla6CKHO-jpPw/viewform">Level 3: Week 2 Quiz</a>
+<a href="https://github.com/saifsweelam/databases-intro-roadmap/tree/main/week-4">Normalization &amp; Views Task</a>
 </td>
         </tr>
         <tr>
@@ -966,43 +1157,27 @@ _By the end of this level, the learner should learn_
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>Database Indexing
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PLfDx4cQoUNObHX28K6FS38LkB2CPLGGfx">Algorithm Academy (Sequelize)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=TmVRKDoMulE">pragma (Database Migrations)</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF">Tech Vault [5-8]</a></li>
+      <li><a href="https://www.youtube.com/watch?v=F3jRzYhjW7k">Metigator</a></li>
+    </ul>
+  </li>
+  <li>Database Transactions
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF">Tech Vault [17-18]</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5">Mohamed El Desouki [2-16]</a></li>
+    </ul>
+  </li>
+  <li>Concurrency &amp; Locks
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF">Tech Vault [19-22]</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5">Mohamed El Desouki [17-30]</a></li>
     </ul>
   </li>
 </ul>
-<h6>🌏 English</h6>
-<ul>
-  <li>Prisma
-    <ul>
-      <li><a href="https://www.youtube.com/watch?v=RebA5J-rlwg">Web Dev Simplified (Prisma)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLf42-srNPbi1iwPI4pRMLIcbqW-lF5R9T">fromDev2Dev (Prisma Migrations)</a></li>
-      <li><a href="https://www.prisma.io/docs/concepts/components/prisma-migrate">Prisma Documentations (Prisma Migrations)</a></li>
-    </ul>
-  </li>
-  <li>Sequelize
-    <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PLkqiWyX-_Lov8qmMOVn4SEQwr9yOjNn3f">WittCode (Sequelize)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=zA_HkejB-0s">Alex Rusin (Sequelize Migrations)</a></li>
-      <li><a href="https://sequelize.org/docs/v6/other-topics/migrations/">Sequelize Documentations (Sequelize Migrations)</a></li>
-    </ul>
-  </li>
-  <li>TypeORM
-    <ul>
-      <li><a href="https://www.youtube.com/watch?v=Reb7ISQZCvA">CoderOne (typeORM)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=JaTbzPcyiOE">Laith Academy (typeORM)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=JfIvPDPUFo4">Ben Awad (typeORM Migrations)</a></li>
-    </ul>
-  </li>
-  <li>General
-    <ul>
-      <li><a href="https://www.youtube.com/watch?v=3Pxj-4IrOcs">Ben Awad (How to choose an ORM)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=8WoeGcJ_nNM">PedroTech (How to choose an ORM)</a></li>
-    </ul>
-  </li>
-</ul>
+<h5>📃 Task</h5>
+<a href="https://github.com/saifsweelam/databases-intro-roadmap/tree/main/week-5">Internals Task</a>
 </td>
         </tr>
         <tr>
@@ -1011,22 +1186,55 @@ _By the end of this level, the learner should learn_
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>Concept: Migrating Databases
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=IUfCXmQwm1w">Codezone (Socket.io)</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script (Socket.io)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=XrCUM6vInH4">Smart Code (Socket.io)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=1cHC92DN-Zo">KMR Script (Video &amp; Audio Streaming)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=TmVRKDoMulE">pragma</a></li>
+    </ul>
+  </li>
+  <li>ORM: Prisma
+
+(Note that Prisma changed since v7 update so you will need to check the official documentation for the differences)
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=uRPLhqR_d5I">Simple Arab Code</a></li>
+      <li><a href="https://www.youtube.com/watch?v=KoFgG7Rjhbc">Ali Sleem</a></li>
+    </ul>
+  </li>
+  <li>ORM: Sequelize
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLfDx4cQoUNObHX28K6FS38LkB2CPLGGfx">Algorithm Academy</a></li>
     </ul>
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>Concept: Migrating Databases
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NOkbTDxKi7grs_oxJhLu07">Dave Gray (Socket.io)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=ZKEqqIO7n-k">Web Dev Simplified (Socket.io)</a></li>
-      <li><a href="https://www.youtube.com/watch?v=DvlyzDZDEq4">Web Dev Simplified (Video &amp; Audio Streaming)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=mMsZPZKNc4g">Software Developer Diaries</a></li>
+    </ul>
+  </li>
+  <li>ORM: Prisma
+
+(Note that Prisma changed since v7 update so you will need to check the official documentation for the differences)
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=RebA5J-rlwg">Web Dev Simplified</a></li>
+    </ul>
+  </li>
+  <li>ORM: Drizzle
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=7-NZ0MlPpJA">Web Dev Simplified</a></li>
+    </ul>
+  </li>
+  <li>ORM: Sequelize
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLkqiWyX-_Lov8qmMOVn4SEQwr9yOjNn3f">WittCode</a></li>
+      <li><a href="https://www.youtube.com/watch?v=zA_HkejB-0s">Alex Rusin (Sequelize Migrations)</a></li>
+      <li><a href="https://sequelize.org/docs/v6/other-topics/migrations/">Sequelize Documentations (Sequelize Migrations)</a></li>
+    </ul>
+  </li>
+  <li>ORM: TypeORM
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=Reb7ISQZCvA">CoderOne</a></li>
+      <li><a href="https://www.youtube.com/watch?v=JaTbzPcyiOE">Laith Academy</a></li>
     </ul>
   </li>
 </ul>
@@ -1038,19 +1246,40 @@ _By the end of this level, the learner should learn_
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>Intro to Websockets
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script</a></li>
+      <li><a href="https://www.youtube.com/watch?v=qMTCN-eb2Xs">Reach Star</a></li>
+    </ul>
+  </li>
+  <li>Websocket via `socket.io`
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=IUfCXmQwm1w">Codezone</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script [48:51]</a></li>
+      <li><a href="https://www.youtube.com/watch?v=XrCUM6vInH4">Smart Code</a></li>
+    </ul>
+  </li>
+  <li>WebRTC &amp; Peer-to-Peer Connections
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=1cHC92DN-Zo">KMR Script</a></li>
     </ul>
   </li>
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>Websocket via `ws`
     <ul>
-      <li><a href="https://www.youtube.com/playlist?list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No">Mafia Codes</a></li>
-      <li><a href="https://www.youtube.com/watch?v=mYy-d6BtqmU">Coding with Dawid</a></li>
-      <li><a href="https://www.youtube.com/watch?v=jD7FnbI76Hg">Traversy Media</a></li>
+      <li><a href="https://www.youtube.com/watch?v=pbOXOY78dNA">JavaScript Mastery</a></li>
+    </ul>
+  </li>
+  <li>Websocket via `socket.io`
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=GdYVTWujYD8">Good Morning Developers</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NOkbTDxKi7grs_oxJhLu07">Dave Gray</a></li>
+    </ul>
+  </li>
+  <li>WebRTC &amp; Peer-to-Peer Connections
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=DvlyzDZDEq4">Web Dev Simplified</a></li>
     </ul>
   </li>
 </ul>
@@ -1062,7 +1291,32 @@ _By the end of this level, the learner should learn_
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
 <ul>
-  <li>General
+  <li>Project: Building a Chat App with `socket.io`
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp">KMR Script [52:63]</a></li>
+    </ul>
+  </li>
+</ul>
+<h6>🌏 English</h6>
+<ul>
+  <li>Project: Building a Chat App with `socket.io`
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No">Mafia Codes</a></li>
+      <li><a href="https://www.youtube.com/watch?v=mYy-d6BtqmU">Coding with Dawid</a></li>
+      <li><a href="https://www.youtube.com/watch?v=45Z-xBRHuRo">CodeOde</a></li>
+      <li><a href="https://www.youtube.com/watch?v=jD7FnbI76Hg">Traversy Media</a></li>
+    </ul>
+  </li>
+</ul>
+</td>
+        </tr>
+        <tr>
+            <th>Week 7</th>
+            <td>
+<h5>🎞️ Resources</h5>
+<h6>🌏 Arabic</h6>
+<ul>
+  <li>Browser Automation &amp; Web Scraping using puppeteer
     <ul>
       <li><a href="https://www.youtube.com/watch?v=gh7TmUcku8M">Tresmerge</a></li>
       <li><a href="https://discourse.aosus.org/t/topic/2518">aosus.org</a></li>
@@ -1071,8 +1325,9 @@ _By the end of this level, the learner should learn_
 </ul>
 <h6>🌏 English</h6>
 <ul>
-  <li>General
+  <li>Browser Automation &amp; Web Scraping using puppeteer
     <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLuJJZ-W1NwdqgvE0D-1SMS7EpWIC5cKqu">Michael Kitas</a></li>
       <li><a href="https://www.youtube.com/watch?v=S67gyqnYHmI">Traversy Media</a></li>
       <li><a href="https://www.youtube.com/playlist?list=PLRmEk9smitaXljDN2CjwZ96o4Aj87iuC5">Get __it Done!</a></li>
     </ul>
@@ -1081,7 +1336,7 @@ _By the end of this level, the learner should learn_
 </td>
         </tr>
         <tr>
-            <th>Week 7</th>
+            <th>Week 8</th>
             <td>
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
@@ -1105,7 +1360,7 @@ _By the end of this level, the learner should learn_
 </td>
         </tr>
         <tr>
-            <th>Week 8</th>
+            <th>Week 9</th>
             <td>
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
@@ -1131,7 +1386,7 @@ _By the end of this level, the learner should learn_
 </td>
         </tr>
         <tr>
-            <th>Week 9</th>
+            <th>Week 10</th>
             <td>
 <h5>🎞️ Resources</h5>
 <h6>🌏 Arabic</h6>
