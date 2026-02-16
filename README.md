@@ -71,7 +71,7 @@ _By the end of this level, the learner should learn_
   </li>
 </ul>
 <h5>📃 Task</h5>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSccZkQkxZGI7U0Ub3G4gkdeB1kQS543r0Ke8oc1GxQGPsUqaA/viewform">Level 0: Week 1 Quiz</a>
+<a href="https://forms.gle/a1TeitcFHwWdaUvYA">Level 0: Week 1 Quiz</a>
 </td>
         </tr>
         <tr>
